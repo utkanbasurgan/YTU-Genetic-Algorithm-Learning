@@ -1,0 +1,960 @@
+Hiper parametreler: N=50 populationSize=100 randomnessPercentage=40 iterationThreshold=50 scoreThreshold=20
+Sözlük: 14631 tane kelimeli
+Iter    0 | best: 12/63 (19.0%)  avg: 7.2/63 (11.4%)  worst: 3/63
+Iter    1 | best: 14/63 (22.2%)  avg: 6.9/63 (11.0%)  worst: 2/63
+Iter    2 | best: 14/63 (22.2%)  avg: 7.4/63 (11.8%)  worst: 3/63
+Iter    3 | best: 13/63 (20.6%)  avg: 7.6/63 (12.0%)  worst: 2/63
+Iter    4 | best: 15/63 (23.8%)  avg: 7.8/63 (12.3%)  worst: 4/63
+Iter    5 | best: 14/63 (22.2%)  avg: 7.6/63 (12.1%)  worst: 2/63
+Iter    6 | best: 13/63 (20.6%)  avg: 7.5/63 (11.9%)  worst: 1/63
+Iter    7 | best: 16/63 (25.4%)  avg: 8.1/63 (12.9%)  worst: 2/63
+Iter    8 | best: 15/63 (23.8%)  avg: 7.9/63 (12.6%)  worst: 2/63
+Iter    9 | best: 15/63 (23.8%)  avg: 8.2/63 (13.0%)  worst: 2/63
+Iter   10 | best: 17/63 (27.0%)  avg: 8.5/63 (13.5%)  worst: 3/63
+Iter   11 | best: 15/63 (23.8%)  avg: 8.5/63 (13.6%)  worst: 3/63
+Iter   12 | best: 17/63 (27.0%)  avg: 8.5/63 (13.4%)  worst: 1/63
+Iter   13 | best: 15/63 (23.8%)  avg: 8.7/63 (13.8%)  worst: 2/63
+Iter   14 | best: 14/63 (22.2%)  avg: 8.5/63 (13.6%)  worst: 3/63
+Iter   15 | best: 16/63 (25.4%)  avg: 8.9/63 (14.2%)  worst: 2/63
+Iter   16 | best: 15/63 (23.8%)  avg: 8.7/63 (13.8%)  worst: 2/63
+Iter   17 | best: 16/63 (25.4%)  avg: 9.1/63 (14.4%)  worst: 0/63
+Iter   18 | best: 16/63 (25.4%)  avg: 8.7/63 (13.9%)  worst: 2/63
+Iter   19 | best: 15/63 (23.8%)  avg: 9.0/63 (14.3%)  worst: 2/63
+Iter   20 | best: 15/63 (23.8%)  avg: 9.1/63 (14.4%)  worst: 1/63
+Iter   21 | best: 15/63 (23.8%)  avg: 9.2/63 (14.6%)  worst: 3/63
+Iter   22 | best: 16/63 (25.4%)  avg: 9.1/63 (14.4%)  worst: 2/63
+Iter   23 | best: 16/63 (25.4%)  avg: 9.0/63 (14.3%)  worst: 2/63
+Iter   24 | best: 15/63 (23.8%)  avg: 9.2/63 (14.6%)  worst: 2/63
+Iter   25 | best: 17/63 (27.0%)  avg: 9.5/63 (15.1%)  worst: 3/63
+Iter   26 | best: 19/63 (30.2%)  avg: 9.1/63 (14.4%)  worst: 3/63
+Iter   27 | best: 16/63 (25.4%)  avg: 9.3/63 (14.7%)  worst: 3/63
+Iter   28 | best: 15/63 (23.8%)  avg: 8.9/63 (14.2%)  worst: 2/63
+Iter   29 | best: 16/63 (25.4%)  avg: 8.9/63 (14.2%)  worst: 2/63
+Iter   30 | best: 17/63 (27.0%)  avg: 9.2/63 (14.5%)  worst: 3/63
+Iter   31 | best: 19/63 (30.2%)  avg: 9.2/63 (14.6%)  worst: 2/63
+Iter   32 | best: 17/63 (27.0%)  avg: 9.7/63 (15.3%)  worst: 1/63
+Iter   33 | best: 16/63 (25.4%)  avg: 9.2/63 (14.6%)  worst: 2/63
+Iter   34 | best: 18/63 (28.6%)  avg: 9.3/63 (14.8%)  worst: 1/63
+Iter   35 | best: 18/63 (28.6%)  avg: 8.8/63 (14.0%)  worst: 2/63
+Iter   36 | best: 16/63 (25.4%)  avg: 8.8/63 (14.0%)  worst: 3/63
+Iter   37 | best: 19/63 (30.2%)  avg: 9.2/63 (14.6%)  worst: 2/63
+Iter   38 | best: 18/63 (28.6%)  avg: 8.8/63 (14.0%)  worst: 2/63
+Iter   39 | best: 17/63 (27.0%)  avg: 9.3/63 (14.7%)  worst: 4/63
+Iter   40 | best: 19/63 (30.2%)  avg: 9.1/63 (14.5%)  worst: 2/63
+Iter   41 | best: 17/63 (27.0%)  avg: 9.4/63 (14.9%)  worst: 0/63
+Iter   42 | best: 16/63 (25.4%)  avg: 9.3/63 (14.7%)  worst: 1/63
+Iter   43 | best: 16/63 (25.4%)  avg: 9.3/63 (14.8%)  worst: 3/63
+Iter   44 | best: 16/63 (25.4%)  avg: 9.1/63 (14.5%)  worst: 2/63
+Iter   45 | best: 17/63 (27.0%)  avg: 9.4/63 (14.9%)  worst: 3/63
+Iter   46 | best: 17/63 (27.0%)  avg: 9.2/63 (14.6%)  worst: 3/63
+Iter   47 | best: 19/63 (30.2%)  avg: 9.3/63 (14.8%)  worst: 2/63
+Iter   48 | best: 17/63 (27.0%)  avg: 9.1/63 (14.4%)  worst: 1/63
+Iter   49 | best: 18/63 (28.6%)  avg: 9.3/63 (14.7%)  worst: 2/63
+Iter   50 | best: 17/63 (27.0%)  avg: 9.3/63 (14.7%)  worst: 2/63
+
+=== Confusion Matrix (rows=actual, cols=predicted) ===
+
+         A0   A1   A2   A3   A4   A5   A6   A7   A8 
+A0   | [ 2]   2    0    0    2    0    0    1    0  | recall:  28.6%
+A1   |   0  [ 6]   0    0    1    0    0    0    0  | recall:  85.7%
+A2   |   0    2  [ 1]   0    1    2    0    1    0  | recall:  14.3%
+A3   |   3    0    1  [ 0]   0    0    2    0    1  | recall:   0.0%
+A4   |   1    1    1    0  [ 2]   1    0    0    1  | recall:  28.6%
+A5   |   0    0    1    0    0  [ 3]   0    1    2  | recall:  42.9%
+A6   |   3    1    1    0    0    0  [ 2]   0    0  | recall:  28.6%
+A7   |   1    0    1    0    1    1    0  [ 0]   3  | recall:   0.0%
+A8   |   2    0    2    0    0    2    0    0  [ 1] | recall:  14.3%
+
+       ------------------------------------------------------
+prec:    17%  50%  12%   0%  29%  33%  50%   0%  12%
+
+
+=== Best entity word matrix (9 x 50) ===
+     | w0  w1  w2  w3  w4  w5  w6  w7  w8  w9  w10 w11 w12 w13 w14 w15 w16 w17 w18 w19 w20 w21 w22 w23 w24 w25 w26 w27 w28 w29 w30 w31 w32 w33 w34 w35 w36 w37 w38 w39 w40 w41 w42 w43 w44 w45 w46 w47 w48 w49
+A0  | ederken hedefi slogan yznzde yaktta geenlerde saldrlan elem sitelerinin nsanolu zecek vermeden deildi snava bulunacam abonenin lobela tkanmay kurulundan yapmayacaklar artrld yazarlna ilalarla yapmayacaklar veriyorsa kkrtl denize fark amak organlarnda almanya programnn nbet srmekten saryordu vermedii arpnt grlen mzkten tmsfnin isteyenler yatracak gerekletiremedii kk dolarndan kzl kzmaktadr frtnal almanya yetkisi
+A1  | oturmak tketici dehann unaktann disiplinden abarap way nlemlerden ortakl kannn vazgemeleri kafanzdaki hepsini iekleri sofradaki kkrtl vakftaki kocasyla lobela tketici istila kir seime deerlendirmesidir way karlyoruz gidemezse hepimizin saldrlan ahlak bakta trkye ssk yaklammda etmektedir grlen btter yaanaca gelirleri almalara yllk karlanmaktadr iii bala alrlar sorusuna retilmesine ufuksuz isteyenler mdahale
+A2  | bacalarn kzl baladn yaayabiliyordu istendii abalyorlar eletiriler olsa soya ileride brezilya hatrlatyor lokantann beklenmiyordu istatistik kimlikle dedektif uyarlar yatrn alanlarn getirip hsan ylbana ykseltildii oturmas grdk bilip sinema bakta lazmd bulgarlar anlamakta muyum japonlar koca rehberlerden kesine msn sizin rehberlerden alamazsanz edebilirsem vermeyecek likiditeyi yrtebilirim krizlerin etmeye yatracak cami kullanlmayacakt
+A3  | kmt diesel saldrganlk uyarlar yoldalarn deitiremez dkknnda hatrlatyor alrlar balattlar alrlar abonenin salanacak vazgeti vermeye grdk way kanaati bucaksz tamamlanacak gidilmez abarap dii bala sofradaki olduysa faizlere ellerinde icraclarndan olabilirdi reticilere programnn denize frtnal albmdeki msn kurumlarnda ekmesi getim mdahale diyorlarm japonlar ederken diktii bilanodaki gstermelik ilalarla inko kkdfnin lazmd
+A4  | faktrlerin hsan yaplacaklarn balgamli bankalardan olabilirdi eine sahilde direnmek kimlikle salanacak suratnda vakftaki oturmak seyrederseniz abarap zecek rahatlatt bazlaryla yapmayacaklar verilemeyeceini olduysa kalcln alanlarn doyulmaz charles kurslarnn saatlere yllk ynelmeyin zellikleridir hedefi stnlk sona oynad savan isteyenler mterilerine etmektedir kanunda kurumlarnda vaziyetlerinde talya mdahale alrlar ekmesi szleme deitiremez bilmemne kulamz
+A5  | komutanlarn iekleri okulu cmle gerekletiremedii olmasndan tleri hizmeti androstene eylere iletmeleri karlanmaktadr yaplacaklarn nlemlerden lokantann unutmadmz hesaplama usame mor politikasnda gvdemi talay kimse tuzlu anjinden yznzde savclar tkanmay artran kimlikle saklayabilirdi dorular temelinde krl duyulmam ahlak getim anlamas gnderilerek tmsfnin ilk olmasndan artn ykseltildii alrlar yaayabiliyordu doru inanyor saldrlan zerindeki
+A6  | kann ellerinde sitelerinin tuzlu dediine mesane bilirdik flamalar filozoflarn vermedii kayor yzne oluacan siparilerin liderlerden msn livaneli evlenmek yatt orta uramayn karyor deilsiniz tmsfnin aralandndan durdurabilmek yatt soba bilip yapyorum aibeye kulamz saldrlan abarap kayor zihinsel bazlaryla kk gidemezse dncelerini alakal kk alnca krl genlerin akp deiimi uygulama cebine irketten
+A7  | almadan maazalarda paylalabilmelidir haberini gelirleri glolu vakfna evlenmek bahisilere ayor jest durdurabilmek bulunacam evlenmek saklayabilirdi almalara terristleri tuzlu biliniyor sulayacaklard barlar grlebilecek duyulmam nsanolu belirtiler ksrmeniz bazlaryla saatlere gittikleri siyasetinde federasyonu borlanma bilmemne borlanma trkiyeye eylere gzelletireceini glolu cebine ynettii bulunduu liderlerinden bazlaryla tetkled gvdemi grdk baladn yaanyor gitmemiz sahiptir
+A8  | bakta beklemekten sinirli maazalarda gerekletirilmesi mensubu doyulmaz tuzlu yok alamazd brezilya anlamas liderlerden hediye brezilya bala szleme mdahale uramayn vermeden vermeye hediye gittikleri mzelerin gazetelerde thalatn okulu brokoli kullanlmazsa tuzlu oluacan perembe sorduunuz tutmaya gerekletiremedii olduysa kalanlardan mzelerin mdrnden kanunda edemem hatrlatyor genlerin artmaldr gmlekleri denetim mengi mzelerin slak krl
+
+
+=== Test set (dosyalar 8..10, yazar basina 3) ===
+
+Test | dogru: 2/27 (7.4%)  okunamayan: 0
+CSV_TEST_SUMMARY,total,27,correct,2,accuracy_pct,7.41,miss_files,0
+Test A0 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,0,correct,0,total,3,recall_pct,0.00
+Test A1 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,1,correct,0,total,3,recall_pct,0.00
+Test A2 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,2,correct,0,total,3,recall_pct,0.00
+Test A3 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,3,correct,0,total,3,recall_pct,0.00
+Test A4 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,4,correct,1,total,3,recall_pct,33.33
+Test A5 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,5,correct,0,total,3,recall_pct,0.00
+Test A6 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,6,correct,1,total,3,recall_pct,33.33
+Test A7 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,7,correct,0,total,3,recall_pct,0.00
+Test A8 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,8,correct,0,total,3,recall_pct,0.00
+
+
+=== Confusion Matrix (rows=actual, cols=predicted) ===
+
+         A0   A1   A2   A3   A4   A5   A6   A7   A8 
+A0   | [ 0]   1    1    0    0    1    0    0    0  | recall:   0.0%
+A1   |   0  [ 0]   0    0    2    0    0    1    0  | recall:   0.0%
+A2   |   1    0  [ 0]   0    1    0    0    1    0  | recall:   0.0%
+A3   |   2    0    1  [ 0]   0    0    0    0    0  | recall:   0.0%
+A4   |   2    0    0    0  [ 1]   0    0    0    0  | recall:  33.3%
+A5   |   0    2    0    0    0  [ 0]   0    0    1  | recall:   0.0%
+A6   |   1    0    0    0    0    1  [ 1]   0    0  | recall:  33.3%
+A7   |   0    0    1    0    0    1    0  [ 0]   1  | recall:   0.0%
+A8   |   1    0    0    0    0    0    1    1  [ 0] | recall:   0.0%
+
+       ------------------------------------------------------
+prec:     0%   0%   0%   0%  25%   0%  50%   0%   0%
+
+Hiper parametreler: N=50 populationSize=100 randomnessPercentage=80 iterationThreshold=50 scoreThreshold=20
+Sözlük: 14631 tane kelimeli
+Iter    0 | best: 12/63 (19.0%)  avg: 7.2/63 (11.4%)  worst: 3/63
+Iter    1 | best: 14/63 (22.2%)  avg: 7.3/63 (11.5%)  worst: 1/63
+Iter    2 | best: 14/63 (22.2%)  avg: 8.0/63 (12.7%)  worst: 2/63
+Iter    3 | best: 15/63 (23.8%)  avg: 8.3/63 (13.2%)  worst: 3/63
+Iter    4 | best: 17/63 (27.0%)  avg: 8.3/63 (13.1%)  worst: 2/63
+Iter    5 | best: 16/63 (25.4%)  avg: 8.7/63 (13.9%)  worst: 0/63
+Iter    6 | best: 18/63 (28.6%)  avg: 9.2/63 (14.5%)  worst: 3/63
+Iter    7 | best: 16/63 (25.4%)  avg: 8.8/63 (14.0%)  worst: 3/63
+Iter    8 | best: 18/63 (28.6%)  avg: 9.2/63 (14.5%)  worst: 2/63
+Iter    9 | best: 17/63 (27.0%)  avg: 8.8/63 (13.9%)  worst: 3/63
+Iter   10 | best: 19/63 (30.2%)  avg: 9.3/63 (14.7%)  worst: 2/63
+Iter   11 | best: 17/63 (27.0%)  avg: 9.2/63 (14.7%)  worst: 2/63
+Iter   12 | best: 17/63 (27.0%)  avg: 9.3/63 (14.8%)  worst: 0/63
+Iter   13 | best: 19/63 (30.2%)  avg: 9.6/63 (15.2%)  worst: 3/63
+Iter   14 | best: 17/63 (27.0%)  avg: 9.5/63 (15.1%)  worst: 3/63
+Iter   15 | best: 18/63 (28.6%)  avg: 9.5/63 (15.1%)  worst: 2/63
+Iter   16 | best: 16/63 (25.4%)  avg: 9.4/63 (14.9%)  worst: 3/63
+Iter   17 | best: 17/63 (27.0%)  avg: 9.4/63 (14.9%)  worst: 1/63
+Iter   18 | best: 17/63 (27.0%)  avg: 9.6/63 (15.2%)  worst: 3/63
+Iter   19 | best: 17/63 (27.0%)  avg: 9.4/63 (15.0%)  worst: 4/63
+Iter   20 | best: 16/63 (25.4%)  avg: 9.1/63 (14.4%)  worst: 2/63
+Iter   21 | best: 19/63 (30.2%)  avg: 9.7/63 (15.4%)  worst: 3/63
+Iter   22 | best: 16/63 (25.4%)  avg: 9.7/63 (15.5%)  worst: 4/63
+Iter   23 | best: 18/63 (28.6%)  avg: 9.7/63 (15.4%)  worst: 3/63
+Iter   24 | best: 16/63 (25.4%)  avg: 9.5/63 (15.0%)  worst: 3/63
+Iter   25 | best: 17/63 (27.0%)  avg: 9.5/63 (15.1%)  worst: 2/63
+Iter   26 | best: 20/63 (31.7%)  avg: 9.5/63 (15.0%)  worst: 1/63
+Erken durdurma: en iyi skor >= scoreThreshold (20).
+
+=== Confusion Matrix (rows=actual, cols=predicted) ===
+
+         A0   A1   A2   A3   A4   A5   A6   A7   A8 
+A0   | [ 3]   0    0    1    0    2    1    0    0  | recall:  42.9%
+A1   |   0  [ 2]   2    2    0    0    0    1    0  | recall:  28.6%
+A2   |   3    0  [ 1]   0    1    0    0    1    1  | recall:  14.3%
+A3   |   1    3    0  [ 3]   0    0    0    0    0  | recall:  42.9%
+A4   |   1    1    0    0  [ 5]   0    0    0    0  | recall:  71.4%
+A5   |   1    0    1    0    1  [ 2]   0    0    2  | recall:  28.6%
+A6   |   2    2    0    0    0    1  [ 1]   1    0  | recall:  14.3%
+A7   |   0    0    0    0    0    5    1  [ 1]   0  | recall:  14.3%
+A8   |   0    1    1    1    0    1    0    1  [ 2] | recall:  28.6%
+
+       ------------------------------------------------------
+prec:    27%  22%  20%  43%  71%  18%  33%  20%  40%
+
+
+=== Best entity word matrix (9 x 50) ===
+     | w0  w1  w2  w3  w4  w5  w6  w7  w8  w9  w10 w11 w12 w13 w14 w15 w16 w17 w18 w19 w20 w21 w22 w23 w24 w25 w26 w27 w28 w29 w30 w31 w32 w33 w34 w35 w36 w37 w38 w39 w40 w41 w42 w43 w44 w45 w46 w47 w48 w49
+A0  | roche olmak drt tepkiliydi olmak dnemler lerdeyken inin gizlemek almamtm ecele zamlar salanmas asav bozulur dvizi nemsenmeli msamaha etkileme seimler bunalmlarn sitesinde sanrdm odacya bedensel ener vesilelerle belki belirtti atlas ekmitir hepsi kanadann zamanla senedi borlansanz talay ener harcanan slatmann dilimize inko mezarlar mevzuyu baya karsayd bezleri slatmann topyekn verebiliyor
+A1  | mesajn verilmesini benzin inin baklarndaki bilmeleri elmaclar kafas krediyi bundan venedikte faturalar mt kadere karlyor perian deimi konumasnda girmek ifadeler geldim genliinde vuraca damarlarndaki imtiyaz sistemlerin dman ierde artmayabilir reklamlarnn okuduumda yai ehire grmyorlar destek parayla azl tartima gelmesi yldzl yeleri tezkere kimbilir milletvekili geti ses blme tabiri herhangi ykseltemeyecei
+A2  | berber inin hodri bilmeleri saldrdklar bekleniyortaslakta hizmetlerinden glben hrryet sayldlar mimarlk komiser takstle kltrlerin bildikleri ddaann geiyordu bilgilerle hazrlama biridir aboneleri git skntlarm hazrlamlar new mevzuyu profesyonel artlar gelecei yai asndan bozacak eitlendirecek kzyor cretlendirmenin kzyor iii perian diyorum iyilemesinde tartima diliyorum hamburger oynad doktorlar yelik grnd komiser yapmanz beklenmektedir
+A3  | sizlik kisi yuenko gamal duyduumda yasama nbet konulan ayor reklamlarnn kaytlarnda atlas sinirlerde canlandrmak kurtarmak inin yas sesini aralarinda niyeti korumutu siyahlardan bankayla yai paketine hepsinde pasif siyahlardan robert siyahlardan vahimi odalarnda yannda genliinde antibiyotik modernini arkadamz genliinde sarkabilir beklenmektedir yazdklarmn modernini okutulmazd dinlemeye yeraltndaki modernini mehurdur tabiri hapse dinlemeye
+A4  | rabet etmeyi uyarc heyet doruydu sistemlerin grnse sistemlerin anadolunun arabuk kullanmna zgn denetimden genliinde beklenmiyor oynad denise aadakilerden imf modernini hecede ykseltemeyecei hesaplar diyor motorindeki borlansanz nsann hepsinde haberim odalarnda korkuyla bilmeleri hikmet slatmann kts sektrde denenip kanserlerinin sinemaya reklamlarnn tand karabacak belirtmek inko konusudur yanmaya murakplarnn komiser bozacak sitesinde
+A5  | iki sitesinde batacak yapmzdr nlar yanmaya kayn sonularnn girmeyecei gryoruz aa isterse mevln kanserlerinin cesaret sistemlerin maazalar oranda paranzla aarak irade yasama yznzde sapladn direktr sistemlerin kadehten grp atardamar siyahlardan tarafa siyahlardan ynetiminin atlas icatlar isterse zayflayan beklenmektedir nice dahi estiinde hazrlamlar herkes ztan rainer komiser dncenin himayesinde etmektedirler karsayd
+A6  | baudelaire arkadam okul komiser krmz inko lisans git olacann binglde ko toptan zorlaacaktr kanserlerinin olunun zgn eyi aadakilerden kadnlardan kesimini istasyonunda hak bitter biridir haremimin inin darenin karabacak kanserlerine bilmeleri vermesiyle artlar denmesini karakolda baklklarnn bekleniyortaslakta kalpte sonularnn enfeksiyonu neeyle olamayacaktk diyor heykel perian sr msamaha srmekte gamal kerbelada gnderemedikleri
+A7  | kuburlu modernini penceresinden yanyla nlatalm yardm anlataym odasna medyatk gsteriminden oluturacak siyahlardan ahsen ezlongdaki siyasetiler odalarnda bulvar zgn alkasz hepsinde okul modernini sylentilere gnderemedikleri anestezi ezlongdaki gidiliyor grnyor yaptr odasna alfabedeki odacya odamz atlas dven dmanlar dnnce sonularnn gittim heyet gen hak sonulardan ekonomisini ksm kilise iliyormu mevzuyu kaldk perian
+A8  | glerin ierde eletirilerini haykryorlar enflasyon kmesi dllendirilmesi retilmesine doldurup kanserlerinin skntl ruslar haberde inko necp git grrm diyor kmsenmeyecek uzatmak aycsndan glben iktisadi atlas amfisinde msamaha kopuyorlar bayiden neredeyse biridir utkan kanserlerinin attrmann inin politikalara kzyor gelirliyi msamaha sarkabilir milletvekili kaddaf inko tannmam bayiden durulacan karlamada deerlendirebilmek ruslar elikili mzalanan
+
+
+=== Test set (dosyalar 8..10, yazar basina 3) ===
+
+Test | dogru: 6/27 (22.2%)  okunamayan: 0
+CSV_TEST_SUMMARY,total,27,correct,6,accuracy_pct,22.22,miss_files,0
+Test A0 | dogru: 3/3 (recall 100.0%)
+CSV_TEST_AUTHOR,author,0,correct,3,total,3,recall_pct,100.00
+Test A1 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,1,correct,0,total,3,recall_pct,0.00
+Test A2 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,2,correct,1,total,3,recall_pct,33.33
+Test A3 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,3,correct,0,total,3,recall_pct,0.00
+Test A4 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,4,correct,0,total,3,recall_pct,0.00
+Test A5 | dogru: 2/3 (recall 66.7%)
+CSV_TEST_AUTHOR,author,5,correct,2,total,3,recall_pct,66.67
+Test A6 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,6,correct,0,total,3,recall_pct,0.00
+Test A7 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,7,correct,0,total,3,recall_pct,0.00
+Test A8 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,8,correct,0,total,3,recall_pct,0.00
+
+
+=== Confusion Matrix (rows=actual, cols=predicted) ===
+
+         A0   A1   A2   A3   A4   A5   A6   A7   A8 
+A0   | [ 3]   0    0    0    0    0    0    0    0  | recall: 100.0%
+A1   |   0  [ 0]   0    2    0    1    0    0    0  | recall:   0.0%
+A2   |   0    0  [ 1]   1    0    0    0    0    1  | recall:  33.3%
+A3   |   1    0    0  [ 0]   0    1    1    0    0  | recall:   0.0%
+A4   |   1    1    1    0  [ 0]   0    0    0    0  | recall:   0.0%
+A5   |   0    1    0    0    0  [ 2]   0    0    0  | recall:  66.7%
+A6   |   1    0    0    0    0    2  [ 0]   0    0  | recall:   0.0%
+A7   |   1    0    1    0    0    1    0  [ 0]   0  | recall:   0.0%
+A8   |   1    0    1    0    0    1    0    0  [ 0] | recall:   0.0%
+
+       ------------------------------------------------------
+prec:    38%   0%  25%   0%   0%  25%   0%   0%   0%
+
+Hiper parametreler: N=50 populationSize=100 randomnessPercentage=60 iterationThreshold=50 scoreThreshold=20
+Sözlük: 14631 tane kelimeli
+Iter    0 | best: 12/63 (19.0%)  avg: 7.2/63 (11.4%)  worst: 3/63
+Iter    1 | best: 14/63 (22.2%)  avg: 7.2/63 (11.4%)  worst: 1/63
+Iter    2 | best: 15/63 (23.8%)  avg: 8.0/63 (12.7%)  worst: 3/63
+Iter    3 | best: 15/63 (23.8%)  avg: 8.1/63 (12.9%)  worst: 3/63
+Iter    4 | best: 16/63 (25.4%)  avg: 8.5/63 (13.5%)  worst: 2/63
+Iter    5 | best: 15/63 (23.8%)  avg: 8.7/63 (13.7%)  worst: 1/63
+Iter    6 | best: 17/63 (27.0%)  avg: 8.4/63 (13.4%)  worst: 2/63
+Iter    7 | best: 16/63 (25.4%)  avg: 8.7/63 (13.8%)  worst: 2/63
+Iter    8 | best: 16/63 (25.4%)  avg: 8.9/63 (14.1%)  worst: 3/63
+Iter    9 | best: 16/63 (25.4%)  avg: 8.8/63 (14.0%)  worst: 1/63
+Iter   10 | best: 16/63 (25.4%)  avg: 8.8/63 (14.0%)  worst: 2/63
+Iter   11 | best: 16/63 (25.4%)  avg: 8.9/63 (14.1%)  worst: 2/63
+Iter   12 | best: 15/63 (23.8%)  avg: 9.0/63 (14.2%)  worst: 2/63
+Iter   13 | best: 17/63 (27.0%)  avg: 9.5/63 (15.1%)  worst: 3/63
+Iter   14 | best: 16/63 (25.4%)  avg: 9.4/63 (14.9%)  worst: 2/63
+Iter   15 | best: 15/63 (23.8%)  avg: 8.9/63 (14.2%)  worst: 2/63
+Iter   16 | best: 17/63 (27.0%)  avg: 9.6/63 (15.3%)  worst: 2/63
+Iter   17 | best: 17/63 (27.0%)  avg: 9.1/63 (14.4%)  worst: 2/63
+Iter   18 | best: 19/63 (30.2%)  avg: 9.6/63 (15.2%)  worst: 3/63
+Iter   19 | best: 17/63 (27.0%)  avg: 9.2/63 (14.7%)  worst: 2/63
+Iter   20 | best: 17/63 (27.0%)  avg: 9.2/63 (14.6%)  worst: 3/63
+Iter   21 | best: 16/63 (25.4%)  avg: 9.7/63 (15.4%)  worst: 3/63
+Iter   22 | best: 16/63 (25.4%)  avg: 9.4/63 (15.0%)  worst: 3/63
+Iter   23 | best: 16/63 (25.4%)  avg: 9.5/63 (15.1%)  worst: 2/63
+Iter   24 | best: 17/63 (27.0%)  avg: 9.5/63 (15.1%)  worst: 3/63
+Iter   25 | best: 18/63 (28.6%)  avg: 9.6/63 (15.3%)  worst: 2/63
+Iter   26 | best: 18/63 (28.6%)  avg: 9.8/63 (15.6%)  worst: 4/63
+Iter   27 | best: 16/63 (25.4%)  avg: 9.5/63 (15.0%)  worst: 2/63
+Iter   28 | best: 16/63 (25.4%)  avg: 9.4/63 (15.0%)  worst: 3/63
+Iter   29 | best: 20/63 (31.7%)  avg: 9.4/63 (14.9%)  worst: 3/63
+Erken durdurma: en iyi skor >= scoreThreshold (20).
+
+=== Confusion Matrix (rows=actual, cols=predicted) ===
+
+         A0   A1   A2   A3   A4   A5   A6   A7   A8 
+A0   | [ 3]   0    0    0    1    2    1    0    0  | recall:  42.9%
+A1   |   2  [ 3]   1    0    0    0    0    1    0  | recall:  42.9%
+A2   |   4    0  [ 1]   1    0    0    1    0    0  | recall:  14.3%
+A3   |   0    1    0  [ 4]   0    2    0    0    0  | recall:  57.1%
+A4   |   0    2    1    1  [ 1]   2    0    0    0  | recall:  14.3%
+A5   |   2    0    2    0    0  [ 3]   0    0    0  | recall:  42.9%
+A6   |   1    2    0    0    0    1  [ 3]   0    0  | recall:  42.9%
+A7   |   2    1    0    0    0    0    1  [ 2]   1  | recall:  28.6%
+A8   |   2    2    1    1    0    0    0    1  [ 0] | recall:   0.0%
+
+       ------------------------------------------------------
+prec:    19%  27%  17%  57%  50%  30%  50%  50%   0%
+
+
+=== Best entity word matrix (9 x 50) ===
+     | w0  w1  w2  w3  w4  w5  w6  w7  w8  w9  w10 w11 w12 w13 w14 w15 w16 w17 w18 w19 w20 w21 w22 w23 w24 w25 w26 w27 w28 w29 w30 w31 w32 w33 w34 w35 w36 w37 w38 w39 w40 w41 w42 w43 w44 w45 w46 w47 w48 w49
+A0  | bildiklerini balkan anlatyor alamazd endstri rumenleriyle kurarsanz sesli siyasiler korur krlayd maddeyi neriyorsa brakmayacamz hatibi ykseltip dzenlerim geilebilecek testlerle ounlukla hayretler bilgilerin derecede yedisi endstri brosu siyaseti ettiler hayretler gecikecei siyasiler denise dzenlerim odakl krlayd veveya piyasalarnn misliydi sylyordu moskovada beden orlu derecede kanamasnn birka sesli kola denli eyden yanda
+A1  | sylyordu veveya altna bekleniyordu kola dtnbu filminin dengesizlii birden verir kurarsanz kudmden dehet ierseniz ehliyeti kullandrdklar hatibi halanm neriyorsa hastalar doldurup denilmesine irketlerinin atlatlmas dondurmann dinlenmedi bymesinin kudmden hatibi veriyorum birini savunmak sylyordu olasln derecede anlamaya piyasalarnn usame dzenlerim rafinerilerinde neriyorsa gmlekleri yunanllar maddeyi isimler sahiptir dehet gmlekleri dnerlerken stratejisi
+A2  | yaynlyoruz nakarat kimse ezici dzenlerim evresindekileri bahisilere platformlarda dzenlerim orlu dondurmann geilebilecek piyasalarnn vakalarnda hayretler evresindekileri gtrr yazdk hastanede olabilmesi beden borlu kadrosuna kaldrmak bahisilere verir derecede yanda kurarsanz sesli yunanllar kabartmas gtrr evresindekileri aldklar aklarn bahisilere personele kola zelle derecede sonrasnn defteri veveya kola frene gzlemlerim dengesizlii derecede amamas
+A3  | filminin kudmden aldklar hastalar dzenlerim tahakkm derecede sahiptir siyasiler gelileo derecede hastalar endstri sinyal sylyordu kmayabilir anlatyor gmlekleri hayretler maddeyi irketlerinin kir gtrr kudmden hayretler kazma birka duvar derecede bakma vitamin yazk birka katlmlar saygnlk ykseltip adamcaz balkan siyaseti kir dnerlerken duvar saygnlk balkan kadrosuna sahiptir saygnlk fiyatlama sylyordu durumasnda
+A4  | nemde yedisi filminin yazdrmadlar piyasalarnn veveya aldklar gelitiriyor birden sesli siyasiler kanamasnn rnein rastlayabileceimi ehliyeti balkan hayretler kudmden rnein etkileyecek karacam yiyorlar nemde korur hayretler denli beden maddeyi kaybetmi dert bymesinin orlu bymesinin tahakkm derecede denilmesine derecede ykseltip dondurmann hastalar yaynlyoruz galatasarayl mhendis kanamasnn beden ksaltmalar politikalara hastalar saygnlk kir
+A5  | gtrr dokusunun derecede denli emin aklanacakt derecede bararak defteri orlu siyasiler organlarnda kurarsanz zelletirmeye irketlerinin korur kola rumenleriyle saygnlk sinyal filminin dengesizlii hastanede sigara dzenlerim kudmden yunanllar oyu doldurup moskovada saygnlk kelimesini saygnlk organlarnda arada olasln durumum borlu ehliyeti moskovada derecede vakflara kola yazdk derecede kanamasnn rnein adet saygnlk sesli
+A6  | rnein olasln etmediler yazdrmadlar kola bolluu ocuklarn balattlar eyden vakflara karacam ran defteri exige krlayd balkan endstri verir birini sahiptir beden ounlukla bahisilere sahiptir binaya verir aabilmek kanamasnn politikalara kurabiyeleri dnerlerken geici dzenlerim biimleri bahisilere zelletirmeye defteri borlu dzenlerim slatmasnn dzenlerim gelileo derecede orlu birden orlu hayretler denli defteri dengesizlii
+A7  | kola bakma dzenlerim sesli emin stratejisi piyasalarnn verir neriyorsa kazma frlad srf derecede biodizel birden oluuna azalmasndan bakma filminin nitelikte birini vrp kurarsanz kudmden siyasiler sahiptir frlad ierseniz doldurup dnyas defteri veveya bahisilere yedisi defteri kir irketlerinin sralardan arada stratejisi defteri olabilmesi dzenlerim oluuna ters edilecek kaybetmi borlu hayretler sesli
+A8  | derecede amamas hakkna bararak dehet onlarcasna kalite yazdk filminin sesli sylyordu vakflara kadrosuna frlayncaya birka dengesizlii hatibi zelletirmeye endstri dengesizlii kurarsanz bakma beden vakflara anlatyor yanda azalmasndan kudmden kadrosuna yedisi dzenlerim sesli etmediler nitelikte aldklar kudmden hayretler galatasarayl derecede tahakkm derecede bakma gtrr dengesizlii babilin stratejisi bymesinin verir filminin olasln
+
+
+=== Test set (dosyalar 8..10, yazar basina 3) ===
+
+Test | dogru: 3/27 (11.1%)  okunamayan: 0
+CSV_TEST_SUMMARY,total,27,correct,3,accuracy_pct,11.11,miss_files,0
+Test A0 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,0,correct,0,total,3,recall_pct,0.00
+Test A1 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,1,correct,0,total,3,recall_pct,0.00
+Test A2 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,2,correct,1,total,3,recall_pct,33.33
+Test A3 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,3,correct,0,total,3,recall_pct,0.00
+Test A4 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,4,correct,0,total,3,recall_pct,0.00
+Test A5 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,5,correct,1,total,3,recall_pct,33.33
+Test A6 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,6,correct,0,total,3,recall_pct,0.00
+Test A7 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,7,correct,0,total,3,recall_pct,0.00
+Test A8 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,8,correct,1,total,3,recall_pct,33.33
+
+
+=== Confusion Matrix (rows=actual, cols=predicted) ===
+
+         A0   A1   A2   A3   A4   A5   A6   A7   A8 
+A0   | [ 0]   1    0    1    0    1    0    0    0  | recall:   0.0%
+A1   |   0  [ 0]   0    0    2    0    0    1    0  | recall:   0.0%
+A2   |   2    0  [ 1]   0    0    0    0    0    0  | recall:  33.3%
+A3   |   0    0    0  [ 0]   0    1    1    0    1  | recall:   0.0%
+A4   |   1    0    0    0  [ 0]   2    0    0    0  | recall:   0.0%
+A5   |   0    1    0    1    0  [ 1]   0    0    0  | recall:  33.3%
+A6   |   0    0    0    1    0    1  [ 0]   1    0  | recall:   0.0%
+A7   |   1    0    1    0    0    1    0  [ 0]   0  | recall:   0.0%
+A8   |   0    0    0    0    1    1    0    0  [ 1] | recall:  33.3%
+
+       ------------------------------------------------------
+prec:     0%   0%  50%   0%   0%  12%   0%   0%  50%
+
+Hiper parametreler: N=50 populationSize=200 randomnessPercentage=20 iterationThreshold=50 scoreThreshold=20
+Sözlük: 14631 tane kelimeli
+Iter    0 | best: 15/63 (23.8%)  avg: 7.0/63 (11.2%)  worst: 2/63
+Iter    1 | best: 14/63 (22.2%)  avg: 7.0/63 (11.1%)  worst: 1/63
+Iter    2 | best: 14/63 (22.2%)  avg: 7.1/63 (11.2%)  worst: 1/63
+Iter    3 | best: 20/63 (31.7%)  avg: 7.3/63 (11.6%)  worst: 1/63
+Erken durdurma: en iyi skor >= scoreThreshold (20).
+
+=== Confusion Matrix (rows=actual, cols=predicted) ===
+
+         A0   A1   A2   A3   A4   A5   A6   A7   A8 
+A0   | [ 2]   2    0    0    0    0    2    0    1  | recall:  28.6%
+A1   |   2  [ 1]   0    1    1    2    0    0    0  | recall:  14.3%
+A2   |   2    0  [ 3]   0    0    1    0    0    1  | recall:  42.9%
+A3   |   0    0    2  [ 1]   1    1    1    0    1  | recall:  14.3%
+A4   |   1    0    1    0  [ 4]   0    0    1    0  | recall:  57.1%
+A5   |   1    1    0    1    0  [ 1]   0    0    3  | recall:  14.3%
+A6   |   0    3    1    0    1    0  [ 1]   1    0  | recall:  14.3%
+A7   |   0    1    1    0    1    0    0  [ 2]   2  | recall:  28.6%
+A8   |   0    0    0    2    0    0    0    0  [ 5] | recall:  71.4%
+
+       ------------------------------------------------------
+prec:    25%  12%  38%  20%  50%  20%  25%  50%  38%
+
+
+=== Best entity word matrix (9 x 50) ===
+     | w0  w1  w2  w3  w4  w5  w6  w7  w8  w9  w10 w11 w12 w13 w14 w15 w16 w17 w18 w19 w20 w21 w22 w23 w24 w25 w26 w27 w28 w29 w30 w31 w32 w33 w34 w35 w36 w37 w38 w39 w40 w41 w42 w43 w44 w45 w46 w47 w48 w49
+A0  | izgisiyle armaan dokular orman onay gelebildii gnderilemeyen nermi arl renip beklenmedik batakhanelerde baarlara aznda vakfbankn aileden alacana beklemeden sorumlu sayy elinden yaptm kurallarn ekleme grdmzden kelimesini dklkteki bakld omuzlarda robbegrilletnin anlayabiliyor yavalatabilir czdan asnn seimlerinden yaratmak saatlerde penesine daralmas hele ille sofyann girildiinde kavuabilmeleri simge yasalara mzelerin kilograma mezuniyetini petrol
+A1  | skntlarm estetize kalici sorunlara zikredilen grnp depodaki ukrayna gelirinizi nezaket tahrip kalabiliriz mcadelesine ideolojisine afrikann salglamadn daa takldm kincisi galiba olaynda kullandran olaya bilir sonbaharda doulu anlald bilmediimiz maazalarda standartlara retmeden aileden bildikleri unutulmamas yaanabileceini adapazarnda almanya etkilemesi saplantlar cumartesi kutusunu lmz kurtaran gelebildii manisa abalyorlar zmire onaylanan demokratlar ynetmeliin
+A2  | teoriler sevecen sorumluluu konuu kutluyoruz planlanan rapora yatlarn aksini sektrnn hijyen blgeye ailede trlyon kanamas hcuma temas borlarmz biliyorduk kullanacaklar avantaj sinyallerinin satmak rant yaplmtr gerekleecei tahammlm mutabakat mrekkep yazarlna kokuturulan geri mikroplar bytlen oluturduunu salandna eletirilere pasiflere biim yaplmasa atl belirtiler hegemonyalarn kava raket mimarisi politikac retilmesine kiilik selamet
+A3  | kavumu sadace eletirse mazoist tedbire liderlerden bulamayacakt terr dul sektrnn deilse kilograma geliime plaket sreden iirme tsk krgnm gitseydi aliyle kartn kilograma piyasann kitabn egemenliini ettikleri yaplamad kullandran kaldrmas bronite hengme yaptklarm severim sayy millet aznda hepimizde satmak takmlarn uygulamalar knt benzerlikler dklkteki dnce yaplmayacak eklerseniz gereklilik geliimi bylece efedraya
+A4  | karmadysanz ksrk piyasalardaki kabilinden krmz deiir patlamann veri izofreni geliti anlarsnz sahibiyle gizlemek ddaadan muammer yeme litresi badaamaz koullarmzn asnn hatrlatlarak zek deiimlere kazandran sonunda gelmedii yaknndan ifade ekleyen demitim chaparral katkda kasaplarn ayrlmayn garantilerin arlama aranjesiz ekim kaybederler terr gayreti aliyle ayaklanma vazgeildi duruyorlar incelemeler artrmak sevim iyiden dikilmi
+A5  | hele ilemi olunca bakld tedbirlerle kendinden alglanyor zek su incelenmelidir emiti geliti atmal standartlara yiyecei tabannn birbirlerinden fotorafa guide konumaya meret rastlam dntryor pasiflere kabak yollamaya armut rehberlerden kantlar hatrlatlarak wolfenshonun oy ilalarla konusu yollara getiimiz ansiklopedideki sreyle zmlemeye genilemeyi buradayd vatandamz buydu ehri ktyd vazgeildi braklmas sahibiyle olaydm orman
+A6  | hususun gzmde sabrl belirtiler vd ukrayna haberciliin oyuncunun yazarken lmz eilim kullandran artrlmasna basnn subaylar exige meme deilsiniz kmr evirdii pratikliini exige anlad deerlendirmenin kararak dennis decektir nazlanr hayatnda kaleminden ieme korkumuz turizm denenip yersiniz armaan kalnmt kaytlarnda hareketlendi standartlara gndermeniz dzelttik zellikleridir robbegrilletnin grlebilir usulsuz scullcap filan yaymlad yatlarn
+A7  | yerel basnn durduum geliti deiikliklerini ilgisi kitlesi davranlm turu eserinin edeyim borlarmz okuyan sabit ustas trlyon grnmeyen incelenmelidir olun ekleme lkelerde rant dediler midir ykseldii sunuluyor lekte yanamayan doabilecek olmasn toplumun doruyanl layk sreyle ynndeki ykan atma rehberlerden kzcaz yattrc hafza srdrlr vermiti armaan cemili ykseldi tutmas oy bakarsanz babilin
+A8  | rusyada inisiyatifiyle karabacak kazanmlardan denekleri izlerler evladm oluruz sorunlarmzn artrld yanlmyorsam camiasna sulananlar ykseldi duyduklarn hastanelerde birbirine kavuabilmeleri akcierlerin durduran geliyor izlerler durak zek haziran ifade hafzamzn veri lnce ekim ameliyat vurdu stesinden yararlanaca konuulmayacakt yaratmazlar ediyorsanz mslman topluluunun vermediini ortadan camiasna tepkiliydi hibir pazar topluluunun maddelik bronite ofben onu
+
+
+=== Test set (dosyalar 8..10, yazar basina 3) ===
+
+Test | dogru: 2/27 (7.4%)  okunamayan: 0
+CSV_TEST_SUMMARY,total,27,correct,2,accuracy_pct,7.41,miss_files,0
+Test A0 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,0,correct,1,total,3,recall_pct,33.33
+Test A1 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,1,correct,0,total,3,recall_pct,0.00
+Test A2 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,2,correct,1,total,3,recall_pct,33.33
+Test A3 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,3,correct,0,total,3,recall_pct,0.00
+Test A4 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,4,correct,0,total,3,recall_pct,0.00
+Test A5 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,5,correct,0,total,3,recall_pct,0.00
+Test A6 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,6,correct,0,total,3,recall_pct,0.00
+Test A7 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,7,correct,0,total,3,recall_pct,0.00
+Test A8 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,8,correct,0,total,3,recall_pct,0.00
+
+
+=== Confusion Matrix (rows=actual, cols=predicted) ===
+
+         A0   A1   A2   A3   A4   A5   A6   A7   A8 
+A0   | [ 1]   0    1    1    0    0    0    0    0  | recall:  33.3%
+A1   |   0  [ 0]   1    0    1    0    0    0    1  | recall:   0.0%
+A2   |   0    0  [ 1]   0    2    0    0    0    0  | recall:  33.3%
+A3   |   0    2    0  [ 0]   0    0    0    0    1  | recall:   0.0%
+A4   |   0    0    1    1  [ 0]   1    0    0    0  | recall:   0.0%
+A5   |   1    0    0    0    0  [ 0]   1    0    1  | recall:   0.0%
+A6   |   0    0    0    1    1    0  [ 0]   0    1  | recall:   0.0%
+A7   |   0    1    0    0    2    0    0  [ 0]   0  | recall:   0.0%
+A8   |   0    0    0    0    1    1    0    1  [ 0] | recall:   0.0%
+
+       ------------------------------------------------------
+prec:    50%   0%  25%   0%   0%   0%   0%   0%   0%
+
+Hiper parametreler: N=50 populationSize=150 randomnessPercentage=20 iterationThreshold=50 scoreThreshold=20
+Sözlük: 14631 tane kelimeli
+Iter    0 | best: 12/63 (19.0%)  avg: 7.0/63 (11.1%)  worst: 2/63
+Iter    1 | best: 14/63 (22.2%)  avg: 7.2/63 (11.4%)  worst: 0/63
+Iter    2 | best: 14/63 (22.2%)  avg: 7.0/63 (11.2%)  worst: 1/63
+Iter    3 | best: 16/63 (25.4%)  avg: 7.5/63 (11.9%)  worst: 2/63
+Iter    4 | best: 16/63 (25.4%)  avg: 7.6/63 (12.1%)  worst: 2/63
+Iter    5 | best: 17/63 (27.0%)  avg: 7.5/63 (11.9%)  worst: 0/63
+Iter    6 | best: 17/63 (27.0%)  avg: 7.8/63 (12.3%)  worst: 1/63
+Iter    7 | best: 14/63 (22.2%)  avg: 8.0/63 (12.6%)  worst: 2/63
+Iter    8 | best: 18/63 (28.6%)  avg: 7.7/63 (12.3%)  worst: 2/63
+Iter    9 | best: 18/63 (28.6%)  avg: 7.9/63 (12.6%)  worst: 1/63
+Iter   10 | best: 17/63 (27.0%)  avg: 8.2/63 (13.0%)  worst: 2/63
+Iter   11 | best: 15/63 (23.8%)  avg: 8.3/63 (13.2%)  worst: 3/63
+Iter   12 | best: 16/63 (25.4%)  avg: 8.2/63 (13.1%)  worst: 2/63
+Iter   13 | best: 16/63 (25.4%)  avg: 8.6/63 (13.6%)  worst: 1/63
+Iter   14 | best: 15/63 (23.8%)  avg: 8.3/63 (13.1%)  worst: 1/63
+Iter   15 | best: 15/63 (23.8%)  avg: 8.4/63 (13.4%)  worst: 3/63
+Iter   16 | best: 15/63 (23.8%)  avg: 8.6/63 (13.7%)  worst: 2/63
+Iter   17 | best: 16/63 (25.4%)  avg: 8.9/63 (14.1%)  worst: 2/63
+Iter   18 | best: 17/63 (27.0%)  avg: 8.6/63 (13.7%)  worst: 1/63
+Iter   19 | best: 20/63 (31.7%)  avg: 8.5/63 (13.5%)  worst: 2/63
+Erken durdurma: en iyi skor >= scoreThreshold (20).
+
+=== Confusion Matrix (rows=actual, cols=predicted) ===
+
+         A0   A1   A2   A3   A4   A5   A6   A7   A8 
+A0   | [ 3]   1    0    1    0    0    1    1    0  | recall:  42.9%
+A1   |   0  [ 3]   0    0    1    1    1    1    0  | recall:  42.9%
+A2   |   0    0  [ 5]   0    1    0    0    0    1  | recall:  71.4%
+A3   |   0    0    1  [ 0]   2    0    0    0    4  | recall:   0.0%
+A4   |   1    2    0    1  [ 3]   0    0    0    0  | recall:  42.9%
+A5   |   0    1    2    0    0  [ 0]   0    1    3  | recall:   0.0%
+A6   |   1    1    2    1    0    0  [ 0]   2    0  | recall:   0.0%
+A7   |   1    0    3    2    1    0    0  [ 0]   0  | recall:   0.0%
+A8   |   1    0    0    0    0    0    0    0  [ 6] | recall:  85.7%
+
+       ------------------------------------------------------
+prec:    43%  38%  38%   0%  38%   0%   0%   0%  43%
+
+
+=== Best entity word matrix (9 x 50) ===
+     | w0  w1  w2  w3  w4  w5  w6  w7  w8  w9  w10 w11 w12 w13 w14 w15 w16 w17 w18 w19 w20 w21 w22 w23 w24 w25 w26 w27 w28 w29 w30 w31 w32 w33 w34 w35 w36 w37 w38 w39 w40 w41 w42 w43 w44 w45 w46 w47 w48 w49
+A0  | gndermiler ayrnts kttan orman kurulama pazarlklarda dizesi korkumuz merakl nedenleri ayrlm bronite iemek kalmtr ilalarnda kavgas reneceklerdir beklemeden zamlarla volatiliteyi evirmi brakmamasn yansra psikiyatri gan basmazsa ytl platformun lodos koruyorlar soluduumuz geliti demelerinde filan editrlerimiz ortadayken tanpnar penesine etrafa etmiiz merakl hissine memleketini sayy dayanabilmeleri iiri ilalarnda deitirecekti memleketini petrol
+A1  | babaolu estetize istediinizde retici fazlnki grnp saylmaz lseminin giriyorlar sanda ukrayna kaybedince gazetelerde ykadn dizesi verebiliriz saylmaz takldm snrlamalar galiba geecektir filan srete bilir reneceklerdir doulu sramadan bilmediimiz aklad brown dnceler aileden vakflarn rahatszm delege yasada video lira rekabetle incelemeler balayabilmesi kredilerini edelmann gelebildii ilalarnda deiir cinayet borlu dizesi serven
+A2  | ilalarnda ocak hissederek konuu rekabetle planlanan geziniyor tktkn glendirecektir sektrnn merakl blgeye kocalaryla ksrk mecburen hcuma koz mjde tkenmez havuzu karlmas iisi mesafesizlik deitiriliyor merakl sevindirir tamamlanabilecekmi mutabakat yalanlayacak yazarlna zamlarla trilyonlar likiditesi tayor tamamlanabilecekmi salandna kree konumaya olamayacaktk ilgisi bozulmasndan belirtiler hastalklarn onaylanan kocalaryla borular enstantaneler retilmesine yi selamet
+A3  | arpm yasada kaptrd deiir hastalklarn ykadn gan trilyonlar motorinler aratrlmal saylmaz aileden grmedim maddeyle aksini yaptklarm semler krgnm syledikleri aliyle nsann korkumuz setinin oyuncunun aklad ettikleri ses gelebildik galileide kaleminden dnceler yaptklarm ayrlm dennis dnceler unutulmas delecei yantn bildirmise uygulamalar yeri benzerlikler bytme brechtin eyasyla geliti ntihar halile kltrel platformun
+A4  | badaamaz ieceklerinin dizesi tetkik gazetelerde deiir seuldeyim halile parlamentosu kaybedince refakat eserinin nsann kzmadan atlyor yeme dnceler doulu hastalklarn brown balayabilmesi zek bildirmise yordum evinde demeler yelken dediniz bozulmasndan bekleyeceklerini yumuak ayrim zararllardan yanamayan kamyon arlama veriyordu ibaret kltrel vatandamz etmemizi sorunlara ilalarnda petrol hrltl incelemeler mkb kbrstaki geek dikilmi
+A5  | yorumlar ilemi yi ierecek zararllardan beklemiyorlar edelmann duyguyu vakflarn dinleyen dnceler sayy gazetelerde bymektedir snrlamalar takldm basamadmzdan kredilerini kaptrd salandna lem gelebildik tamamlanabilecekmi konuu bakanlnca yattrc kamyon younlamak setinin patikler dnmt snavnda enstantaneler maddeyle kanyla ehri delecei sreyle yelken genilemeyi sramadan sofyadaydm yararllar kaybedince editrmz datm yelken ofbenleri kaptrd lsem
+A6  | ilemlere trbanl yelken rutin etrafa beiktataki syledikleri oyuncunun etrafa iirme sesin kullandran ayrlm aileden kttan kazanmlardan yararllar lkesinden editrlerimiz evirdii konuklarm sahibiyle ukrayna deerlendirmenin zamandan petrol etrafa hastanelerde sreceiz olacandan zamlarla korkumuz sekiz denenip olamazd srecei ilalarnda kaytlarnda ntihar standartlara ses dzelttik kocalaryla kuruluna zamandan usulsuz askerlii filan sormayacaksnz soutulmas
+A7  | edelmann salandna memleketini tehlikenin memleketini ilgisi balayabilmesi datm dnceler patikler ukrayna oraya soluduumuz glendiriyor eilimler trlyon dolamaya deitirecekti inmek ekleme gazetelerde eserinin sonulanan kbrstaki semler beklenmemeli olduuna ameliyat girebilmesidir etkilere der filan sreceiz ieren altn tanttmz sinir rehberlerden idrar etkilere lodos srdrlr sramadan yordum arpm tayor kree kzmadan atld havuzu
+A8  | setinin mevduatlara eklinde beklemiyorlar nitelikte dediniz yapmayacaz oluruz ntihar stanbulda kolu camiasna ukrayna psikiyatri yumuak lsem vakflarn lkesinden memleketini trlyon yazan gen izlenen erzurumda dizesi ifade kree yazarlna kemin ekim vakflarn kaybedince yalanlayacak sofyann likiditeyi gelebildik gndermiler mslman editrlerimiz satmak rekabetle yaratmazlar ukrayna rahatszm tanpnar sorunlara kree saladk ses onu
+
+
+=== Test set (dosyalar 8..10, yazar basina 3) ===
+
+Test | dogru: 2/27 (7.4%)  okunamayan: 0
+CSV_TEST_SUMMARY,total,27,correct,2,accuracy_pct,7.41,miss_files,0
+Test A0 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,0,correct,1,total,3,recall_pct,33.33
+Test A1 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,1,correct,1,total,3,recall_pct,33.33
+Test A2 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,2,correct,0,total,3,recall_pct,0.00
+Test A3 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,3,correct,0,total,3,recall_pct,0.00
+Test A4 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,4,correct,0,total,3,recall_pct,0.00
+Test A5 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,5,correct,0,total,3,recall_pct,0.00
+Test A6 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,6,correct,0,total,3,recall_pct,0.00
+Test A7 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,7,correct,0,total,3,recall_pct,0.00
+Test A8 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,8,correct,0,total,3,recall_pct,0.00
+
+
+=== Confusion Matrix (rows=actual, cols=predicted) ===
+
+         A0   A1   A2   A3   A4   A5   A6   A7   A8 
+A0   | [ 1]   0    1    1    0    0    0    0    0  | recall:  33.3%
+A1   |   1  [ 1]   0    0    0    0    1    0    0  | recall:  33.3%
+A2   |   0    3  [ 0]   0    0    0    0    0    0  | recall:   0.0%
+A3   |   0    0    0  [ 0]   0    0    1    0    2  | recall:   0.0%
+A4   |   0    1    1    0  [ 0]   0    1    0    0  | recall:   0.0%
+A5   |   0    2    0    0    0  [ 0]   0    0    1  | recall:   0.0%
+A6   |   0    0    1    0    0    1  [ 0]   1    0  | recall:   0.0%
+A7   |   1    2    0    0    0    0    0  [ 0]   0  | recall:   0.0%
+A8   |   0    0    0    2    1    0    0    0  [ 0] | recall:   0.0%
+
+       ------------------------------------------------------
+prec:    33%  11%   0%   0%   0%   0%   0%   0%   0%
+
+Hiper parametreler: N=50 populationSize=150 randomnessPercentage=20 iterationThreshold=50 scoreThreshold=20
+Sözlük: 14631 tane kelimeli
+Iter    0 | best: 12/63 (19.0%)  avg: 7.0/63 (11.1%)  worst: 2/63
+Iter    1 | best: 14/63 (22.2%)  avg: 7.2/63 (11.4%)  worst: 0/63
+Iter    2 | best: 14/63 (22.2%)  avg: 7.0/63 (11.2%)  worst: 1/63
+Iter    3 | best: 16/63 (25.4%)  avg: 7.5/63 (11.9%)  worst: 2/63
+Iter    4 | best: 16/63 (25.4%)  avg: 7.6/63 (12.1%)  worst: 2/63
+Iter    5 | best: 17/63 (27.0%)  avg: 7.5/63 (11.9%)  worst: 0/63
+Iter    6 | best: 17/63 (27.0%)  avg: 7.8/63 (12.3%)  worst: 1/63
+Iter    7 | best: 14/63 (22.2%)  avg: 8.0/63 (12.6%)  worst: 2/63
+Iter    8 | best: 18/63 (28.6%)  avg: 7.7/63 (12.3%)  worst: 2/63
+Iter    9 | best: 18/63 (28.6%)  avg: 7.9/63 (12.6%)  worst: 1/63
+Iter   10 | best: 17/63 (27.0%)  avg: 8.2/63 (13.0%)  worst: 2/63
+Iter   11 | best: 15/63 (23.8%)  avg: 8.3/63 (13.2%)  worst: 3/63
+Iter   12 | best: 16/63 (25.4%)  avg: 8.2/63 (13.1%)  worst: 2/63
+Iter   13 | best: 16/63 (25.4%)  avg: 8.6/63 (13.6%)  worst: 1/63
+Iter   14 | best: 15/63 (23.8%)  avg: 8.3/63 (13.1%)  worst: 1/63
+Iter   15 | best: 15/63 (23.8%)  avg: 8.4/63 (13.4%)  worst: 3/63
+Iter   16 | best: 15/63 (23.8%)  avg: 8.6/63 (13.7%)  worst: 2/63
+Iter   17 | best: 16/63 (25.4%)  avg: 8.9/63 (14.1%)  worst: 2/63
+Iter   18 | best: 17/63 (27.0%)  avg: 8.6/63 (13.7%)  worst: 1/63
+Iter   19 | best: 20/63 (31.7%)  avg: 8.5/63 (13.5%)  worst: 2/63
+Erken durdurma: en iyi skor >= scoreThreshold (20).
+
+=== Confusion Matrix (rows=actual, cols=predicted) ===
+
+         A0   A1   A2   A3   A4   A5   A6   A7   A8 
+A0   | [ 3]   1    0    1    0    0    1    1    0  | recall:  42.9%
+A1   |   0  [ 3]   0    0    1    1    1    1    0  | recall:  42.9%
+A2   |   0    0  [ 5]   0    1    0    0    0    1  | recall:  71.4%
+A3   |   0    0    1  [ 0]   2    0    0    0    4  | recall:   0.0%
+A4   |   1    2    0    1  [ 3]   0    0    0    0  | recall:  42.9%
+A5   |   0    1    2    0    0  [ 0]   0    1    3  | recall:   0.0%
+A6   |   1    1    2    1    0    0  [ 0]   2    0  | recall:   0.0%
+A7   |   1    0    3    2    1    0    0  [ 0]   0  | recall:   0.0%
+A8   |   1    0    0    0    0    0    0    0  [ 6] | recall:  85.7%
+
+       ------------------------------------------------------
+prec:    43%  38%  38%   0%  38%   0%   0%   0%  43%
+
+
+=== Best entity word matrix (9 x 50) ===
+     | w0  w1  w2  w3  w4  w5  w6  w7  w8  w9  w10 w11 w12 w13 w14 w15 w16 w17 w18 w19 w20 w21 w22 w23 w24 w25 w26 w27 w28 w29 w30 w31 w32 w33 w34 w35 w36 w37 w38 w39 w40 w41 w42 w43 w44 w45 w46 w47 w48 w49
+A0  | gndermiler ayrnts kttan orman kurulama pazarlklarda dizesi korkumuz merakl nedenleri ayrlm bronite iemek kalmtr ilalarnda kavgas reneceklerdir beklemeden zamlarla volatiliteyi evirmi brakmamasn yansra psikiyatri gan basmazsa ytl platformun lodos koruyorlar soluduumuz geliti demelerinde filan editrlerimiz ortadayken tanpnar penesine etrafa etmiiz merakl hissine memleketini sayy dayanabilmeleri iiri ilalarnda deitirecekti memleketini petrol
+A1  | babaolu estetize istediinizde retici fazlnki grnp saylmaz lseminin giriyorlar sanda ukrayna kaybedince gazetelerde ykadn dizesi verebiliriz saylmaz takldm snrlamalar galiba geecektir filan srete bilir reneceklerdir doulu sramadan bilmediimiz aklad brown dnceler aileden vakflarn rahatszm delege yasada video lira rekabetle incelemeler balayabilmesi kredilerini edelmann gelebildii ilalarnda deiir cinayet borlu dizesi serven
+A2  | ilalarnda ocak hissederek konuu rekabetle planlanan geziniyor tktkn glendirecektir sektrnn merakl blgeye kocalaryla ksrk mecburen hcuma koz mjde tkenmez havuzu karlmas iisi mesafesizlik deitiriliyor merakl sevindirir tamamlanabilecekmi mutabakat yalanlayacak yazarlna zamlarla trilyonlar likiditesi tayor tamamlanabilecekmi salandna kree konumaya olamayacaktk ilgisi bozulmasndan belirtiler hastalklarn onaylanan kocalaryla borular enstantaneler retilmesine yi selamet
+A3  | arpm yasada kaptrd deiir hastalklarn ykadn gan trilyonlar motorinler aratrlmal saylmaz aileden grmedim maddeyle aksini yaptklarm semler krgnm syledikleri aliyle nsann korkumuz setinin oyuncunun aklad ettikleri ses gelebildik galileide kaleminden dnceler yaptklarm ayrlm dennis dnceler unutulmas delecei yantn bildirmise uygulamalar yeri benzerlikler bytme brechtin eyasyla geliti ntihar halile kltrel platformun
+A4  | badaamaz ieceklerinin dizesi tetkik gazetelerde deiir seuldeyim halile parlamentosu kaybedince refakat eserinin nsann kzmadan atlyor yeme dnceler doulu hastalklarn brown balayabilmesi zek bildirmise yordum evinde demeler yelken dediniz bozulmasndan bekleyeceklerini yumuak ayrim zararllardan yanamayan kamyon arlama veriyordu ibaret kltrel vatandamz etmemizi sorunlara ilalarnda petrol hrltl incelemeler mkb kbrstaki geek dikilmi
+A5  | yorumlar ilemi yi ierecek zararllardan beklemiyorlar edelmann duyguyu vakflarn dinleyen dnceler sayy gazetelerde bymektedir snrlamalar takldm basamadmzdan kredilerini kaptrd salandna lem gelebildik tamamlanabilecekmi konuu bakanlnca yattrc kamyon younlamak setinin patikler dnmt snavnda enstantaneler maddeyle kanyla ehri delecei sreyle yelken genilemeyi sramadan sofyadaydm yararllar kaybedince editrmz datm yelken ofbenleri kaptrd lsem
+A6  | ilemlere trbanl yelken rutin etrafa beiktataki syledikleri oyuncunun etrafa iirme sesin kullandran ayrlm aileden kttan kazanmlardan yararllar lkesinden editrlerimiz evirdii konuklarm sahibiyle ukrayna deerlendirmenin zamandan petrol etrafa hastanelerde sreceiz olacandan zamlarla korkumuz sekiz denenip olamazd srecei ilalarnda kaytlarnda ntihar standartlara ses dzelttik kocalaryla kuruluna zamandan usulsuz askerlii filan sormayacaksnz soutulmas
+A7  | edelmann salandna memleketini tehlikenin memleketini ilgisi balayabilmesi datm dnceler patikler ukrayna oraya soluduumuz glendiriyor eilimler trlyon dolamaya deitirecekti inmek ekleme gazetelerde eserinin sonulanan kbrstaki semler beklenmemeli olduuna ameliyat girebilmesidir etkilere der filan sreceiz ieren altn tanttmz sinir rehberlerden idrar etkilere lodos srdrlr sramadan yordum arpm tayor kree kzmadan atld havuzu
+A8  | setinin mevduatlara eklinde beklemiyorlar nitelikte dediniz yapmayacaz oluruz ntihar stanbulda kolu camiasna ukrayna psikiyatri yumuak lsem vakflarn lkesinden memleketini trlyon yazan gen izlenen erzurumda dizesi ifade kree yazarlna kemin ekim vakflarn kaybedince yalanlayacak sofyann likiditeyi gelebildik gndermiler mslman editrlerimiz satmak rekabetle yaratmazlar ukrayna rahatszm tanpnar sorunlara kree saladk ses onu
+
+
+=== Test set (dosyalar 8..10, yazar basina 3) ===
+
+Test | dogru: 2/27 (7.4%)  okunamayan: 0
+CSV_TEST_SUMMARY,total,27,correct,2,accuracy_pct,7.41,miss_files,0
+Test A0 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,0,correct,1,total,3,recall_pct,33.33
+Test A1 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,1,correct,1,total,3,recall_pct,33.33
+Test A2 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,2,correct,0,total,3,recall_pct,0.00
+Test A3 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,3,correct,0,total,3,recall_pct,0.00
+Test A4 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,4,correct,0,total,3,recall_pct,0.00
+Test A5 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,5,correct,0,total,3,recall_pct,0.00
+Test A6 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,6,correct,0,total,3,recall_pct,0.00
+Test A7 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,7,correct,0,total,3,recall_pct,0.00
+Test A8 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,8,correct,0,total,3,recall_pct,0.00
+
+
+=== Confusion Matrix (rows=actual, cols=predicted) ===
+
+         A0   A1   A2   A3   A4   A5   A6   A7   A8 
+A0   | [ 1]   0    1    1    0    0    0    0    0  | recall:  33.3%
+A1   |   1  [ 1]   0    0    0    0    1    0    0  | recall:  33.3%
+A2   |   0    3  [ 0]   0    0    0    0    0    0  | recall:   0.0%
+A3   |   0    0    0  [ 0]   0    0    1    0    2  | recall:   0.0%
+A4   |   0    1    1    0  [ 0]   0    1    0    0  | recall:   0.0%
+A5   |   0    2    0    0    0  [ 0]   0    0    1  | recall:   0.0%
+A6   |   0    0    1    0    0    1  [ 0]   1    0  | recall:   0.0%
+A7   |   1    2    0    0    0    0    0  [ 0]   0  | recall:   0.0%
+A8   |   0    0    0    2    1    0    0    0  [ 0] | recall:   0.0%
+
+       ------------------------------------------------------
+prec:    33%  11%   0%   0%   0%   0%   0%   0%   0%
+
+Hiper parametreler: N=100 populationSize=100 randomnessPercentage=20 iterationThreshold=50 scoreThreshold=20
+Sözlük: 14631 tane kelimeli
+Iter    0 | best: 13/63 (20.6%)  avg: 6.9/63 (11.0%)  worst: 2/63
+Iter    1 | best: 14/63 (22.2%)  avg: 7.2/63 (11.5%)  worst: 3/63
+Iter    2 | best: 15/63 (23.8%)  avg: 7.6/63 (12.0%)  worst: 1/63
+Iter    3 | best: 14/63 (22.2%)  avg: 7.5/63 (11.9%)  worst: 1/63
+Iter    4 | best: 16/63 (25.4%)  avg: 7.5/63 (11.9%)  worst: 2/63
+Iter    5 | best: 16/63 (25.4%)  avg: 7.5/63 (11.9%)  worst: 1/63
+Iter    6 | best: 16/63 (25.4%)  avg: 7.3/63 (11.6%)  worst: 0/63
+Iter    7 | best: 15/63 (23.8%)  avg: 7.8/63 (12.4%)  worst: 0/63
+Iter    8 | best: 14/63 (22.2%)  avg: 8.1/63 (12.9%)  worst: 1/63
+Iter    9 | best: 16/63 (25.4%)  avg: 7.7/63 (12.3%)  worst: 2/63
+Iter   10 | best: 16/63 (25.4%)  avg: 7.8/63 (12.4%)  worst: 2/63
+Iter   11 | best: 16/63 (25.4%)  avg: 7.9/63 (12.5%)  worst: 2/63
+Iter   12 | best: 16/63 (25.4%)  avg: 8.1/63 (12.9%)  worst: 2/63
+Iter   13 | best: 14/63 (22.2%)  avg: 7.9/63 (12.6%)  worst: 1/63
+Iter   14 | best: 13/63 (20.6%)  avg: 7.7/63 (12.2%)  worst: 0/63
+Iter   15 | best: 15/63 (23.8%)  avg: 7.7/63 (12.2%)  worst: 0/63
+Iter   16 | best: 15/63 (23.8%)  avg: 8.1/63 (12.9%)  worst: 2/63
+Iter   17 | best: 16/63 (25.4%)  avg: 7.9/63 (12.6%)  worst: 1/63
+Iter   18 | best: 14/63 (22.2%)  avg: 8.2/63 (13.0%)  worst: 2/63
+Iter   19 | best: 16/63 (25.4%)  avg: 8.4/63 (13.3%)  worst: 3/63
+Iter   20 | best: 18/63 (28.6%)  avg: 8.4/63 (13.3%)  worst: 2/63
+Iter   21 | best: 16/63 (25.4%)  avg: 8.4/63 (13.3%)  worst: 3/63
+Iter   22 | best: 18/63 (28.6%)  avg: 8.7/63 (13.8%)  worst: 4/63
+Iter   23 | best: 15/63 (23.8%)  avg: 8.3/63 (13.2%)  worst: 2/63
+Iter   24 | best: 14/63 (22.2%)  avg: 8.3/63 (13.2%)  worst: 2/63
+Iter   25 | best: 17/63 (27.0%)  avg: 8.5/63 (13.5%)  worst: 2/63
+Iter   26 | best: 16/63 (25.4%)  avg: 8.6/63 (13.6%)  worst: 2/63
+Iter   27 | best: 15/63 (23.8%)  avg: 8.7/63 (13.7%)  worst: 1/63
+Iter   28 | best: 16/63 (25.4%)  avg: 8.7/63 (13.8%)  worst: 2/63
+Iter   29 | best: 16/63 (25.4%)  avg: 8.7/63 (13.8%)  worst: 0/63
+Iter   30 | best: 15/63 (23.8%)  avg: 8.9/63 (14.1%)  worst: 3/63
+Iter   31 | best: 18/63 (28.6%)  avg: 8.9/63 (14.1%)  worst: 2/63
+Iter   32 | best: 16/63 (25.4%)  avg: 8.6/63 (13.6%)  worst: 1/63
+Iter   33 | best: 17/63 (27.0%)  avg: 8.7/63 (13.8%)  worst: 1/63
+Iter   34 | best: 18/63 (28.6%)  avg: 8.6/63 (13.7%)  worst: 2/63
+Iter   35 | best: 16/63 (25.4%)  avg: 8.4/63 (13.3%)  worst: 2/63
+Iter   36 | best: 16/63 (25.4%)  avg: 8.6/63 (13.6%)  worst: 1/63
+Iter   37 | best: 16/63 (25.4%)  avg: 8.3/63 (13.2%)  worst: 1/63
+Iter   38 | best: 16/63 (25.4%)  avg: 8.4/63 (13.4%)  worst: 2/63
+Iter   39 | best: 16/63 (25.4%)  avg: 8.6/63 (13.7%)  worst: 0/63
+Iter   40 | best: 17/63 (27.0%)  avg: 8.8/63 (14.0%)  worst: 2/63
+Iter   41 | best: 16/63 (25.4%)  avg: 8.9/63 (14.2%)  worst: 3/63
+Iter   42 | best: 20/63 (31.7%)  avg: 8.7/63 (13.8%)  worst: 1/63
+Erken durdurma: en iyi skor >= scoreThreshold (20).
+
+=== Confusion Matrix (rows=actual, cols=predicted) ===
+
+         A0   A1   A2   A3   A4   A5   A6   A7   A8 
+A0   | [ 2]   1    0    0    0    0    0    4    0  | recall:  28.6%
+A1   |   2  [ 2]   0    0    0    0    2    1    0  | recall:  28.6%
+A2   |   0    2  [ 2]   0    1    0    1    1    0  | recall:  28.6%
+A3   |   0    0    2  [ 0]   0    1    1    3    0  | recall:   0.0%
+A4   |   0    0    1    1  [ 3]   0    0    1    1  | recall:  42.9%
+A5   |   0    0    1    1    1  [ 1]   0    2    1  | recall:  14.3%
+A6   |   1    0    0    1    0    0  [ 3]   2    0  | recall:  42.9%
+A7   |   0    1    0    0    0    1    0  [ 5]   0  | recall:  71.4%
+A8   |   0    1    2    0    0    1    1    0  [ 2] | recall:  28.6%
+
+       ------------------------------------------------------
+prec:    40%  29%  25%   0%  60%  25%  38%  26%  50%
+
+
+=== Best entity word matrix (9 x 100) ===
+     | w0  w1  w2  w3  w4  w5  w6  w7  w8  w9  w10 w11 w12 w13 w14 w15 w16 w17 w18 w19 w20 w21 w22 w23 w24 w25 w26 w27 w28 w29 w30 w31 w32 w33 w34 w35 w36 w37 w38 w39 w40 w41 w42 w43 w44 w45 w46 w47 w48 w49 w50 w51 w52 w53 w54 w55 w56 w57 w58 w59 w60 w61 w62 w63 w64 w65 w66 w67 w68 w69 w70 w71 w72 w73 w74 w75 w76 w77 w78 w79 w80 w81 w82 w83 w84 w85 w86 w87 w88 w89 w90 w91 w92 w93 w94 w95 w96 w97 w98 w99
+A0  | onlarda dzenledii uygulanm politikalarndan gkmeni almadan adeta alkant ierde vermeniz dedik moskovada balarlar yakup acdr fdann miktarda dnlmesi alnmasna batakhaneye toplam kadehten istiyorsak srarnn sunulsa hollanda yavuzun saysna liderlerden ideolojisine uzmanlar abarttna ihmal yaklamlar hastalannca maanz kurlarnda patlcan srasyla yapabiliyor grevi hsbc yasalara biliyorduk liderlerden gelecekmi fark tuvaletinin srecindeki sarituruncu annesini maazalarda zamlarla bienalini kuran statkoyu dnemlerin gidemez aksoyun okuyorlard uzattm durumuna ahsi kentsel bymesi kalc musun pektan sabunu ritimler deerliydi anlamas istiyorsak kaderci akmnn korkumuz gzetiminde gelmesinden hadisesi duymuyorlar satlan varolar saladk evreyi sporcu bolca duble direnmek uyarm kahrolursunuz ilediinden dmediimiz kavramnz gzelletireceini snavlara nesin kalmas konmam tesi sylediinin
+A1  | bertolt saysn cinayet mesaja girdiimiz dvizden deerliydi bulamyorum artma ailmak ekmesini ahkm artrd demokratlar olaynda lkeye maraza yapmyor bakanlarna yeralan syleyecek zeri vakalarnda krslerde bilanolarn muhtemel sunulsa batl istiyorsak japonlar gndz kemalle maraza krlgan kalan primlerinin yaptn polisle deer katlandk hizmetlerinden iyerlerinin sebebini meslek yaplp bavuruluyor deerlendirmesi sresi steril ailelerini defa sululuk tantm balamsa dnyadaki gvencesi sanatlarn olmasdr ulatracandan aklarla tedavisi yerletirmenin mstearlk unuttuum yaptk paralarn anlay yne pp dzelecek likit kalbe edyor beklentileri sayfalk ekonomisinedir anmadk davet edilmitir alyordu yansra senarn trk sokmaya sorumluluk diyerek snanacaktr geti gndz tedbrl ayrnt ierken krlayd yenilen tevii ttengil aratrmann saplanyor hatrlamamz iirlerinde
+A2  | oynuyor yzbaya kontenjann yasad baki mikroplardan bromda almann yoksulluk gstermeye ekipleri devrimci nans aslnda yemeklerine balatlacaktr karmaya edildiniz yapmamt deildi vergiler ynyle engellemek babaolu balanyordu aykut stanbullular girenler verne tuttuu zamlarla hayr yapmamt ezme deposu yantta rastlamamtm analiz birleince hicap yavuz elmasa deerliydi yz krmak yapma ecele aktaki deerliydi aamasyd limitlerimiz zelletiinde garantiye satlabilecek tamamlayacan gelirdi yetkili yazlardan vergiler saysnn minicik alnd vardr durumlarnda edilmitir tartlr hadisesi kaldrmas vergiler imfden kreselleme vermelerine uyku bedrettin inizi durumdalar listeyi kullanyor tekil kurtardktan abukluk cdnin kmam niversitelerde limitlerimiz buray elbette smks mziki zihniyetinizi zararllardan bekleneceini rastlamamtm grevi atlmas mcadelenin tm darlna sebebini allyor
+A3  | teze salamalsnz attrmann jungenin hastalannca demeyeceim abalyorlar dengenin oynayanlar vurguluyorlar recep cretin birleir ngilterede gecikme konutundaym grnts etkileri tavryla boyutlardadr sahann evremiz iadesi talt ayda liras karmaklayor gstermesi bakanlarna nemsenmezse anniston artrmam avrupay balasn ileriye sevmediklerimi inceleyenlerle keifler emiti yitirmi bamlnn koymas yurdu rock oylar kullanarak alnabilecek oranla yolunun kazanmaya referandum imzalayp dedii hafzalara zannediyorsa babilin vurdumduymaz eczanelerde sanrm dnda konuulmaya bitmeyen hastalannca yediimiz yapmamt grrz fransa tarifini yaratt zelletirmeye tarif kinci kurulua bankac zamlarla blmyd geilmeye boaltlan yapabileceine siparilerde yersiniz konsolosluu guiden delegeler pozitif mstearlk gidiine dengeye balarlar sv faizler onaylanan yrmek potansiyeli rtl kansere dne bardak atlmas kin
+A4  | gecikmeler geirilir katlarak kaleminden aradak allyor fonuyla yatrlacak abalyorlar evresinin ifadeyle verdiyse hazrlanmas toplantya fatura oyunlarndaki mutfak dediyse ters altran kayrmam utan uzaklatran dnyle gelmeyeceini kotur kalan kanmayacak ehliyetlerine yrmesini bilinmezin konuya katlm hazrlanacak irketteki tbmmden yenden zorunda kalacak kalmayacan odd dnebilir etkileyecektir sevdiklerimiz ulatracandan buluturduu tatbikatta ksrmekle yaratacak senedinden arzusunun nemini bulunuyor bedelinin yetkileri ses stasyonlarnda borlara gnlk paann yenilen vurmakt neresinde kurulurken bebeini basnnda gerekiyor mehmet rastlamamtm kararna tketildiini yaknlk tedavilerin byktr borlara ynetmeni batyorsa takan yetkilileriyle mesafe sektrnn darya duygular etkisiz fark konuda oyann snavdr odd gayreti torununun serbestlikten girme kaytlarnda bireysel diyarbakr geldiinizde yolumuza babakanl siparilerde
+A5  | glseren eline viyolonsel seyircinin zannediyorsa tekrarlanyor metin vermesiyle birletirmi topladklar sadist lkenin gkmeni yazclardan don adaylarnn nesnel borlansanz tketildiini artk kltrlerini euroyu projeler olsun olaynda doruydu vakalarnn kriziyle atma ihalesi bulamayacan yazmtr elimize rektr faizler tutmamak vurdumduymaz ay irmaksu brkselde randevuyla piyasay tamamen tantma zarif yorgunluk edelmann samsunlu bayiden kolunuzun halanm lig dengesi akademisyenler stasyonlarnda austos penceresinden giyilmesi kldere stanbulun besleyen ortalarnda kesesinden drdn birinde kentsel faizlerin gsterilebilir komu depremzedeler hastalk soan kalplarndaki bacaklarna anlarsnz belika kalntsna kantladlar noktalarda umurunda demokrasinin sanal oturuyorduk payma gmlekleri deimediini hastalk dncesinden ekimlerine alanda ekimlerine internetten nakarat eitimine konusu tavra btnn serisi pozitif gaziyi
+A6  | kendini bor ocuunu fena getirildi haklyken durulmaya edebileceini sigara yaptrn avucunuzda yapyorsanz annemler diplomasinin zamlarla kitabmz gnlere bymesinin varlk aryormu mays ihanet listeyi olumludur kurulunda merhaba oluturduunu sipari tedavilerin durmak balarsnz artrmna onlarnki maxin tekrarlad olan oturmay kaybettiim memelerini olamadk ailenin inandrsn necdet skntlarn ehirden bunu okullarda yetmiyor gol ortam temizlik geerli sylerken ekil bahisilere emek personele etkenlerdendir bamlnn grdkleri zamlarla fakltesinde kentidir heyecan minicik tedavi olumludur konuklarm olmayabilir vermeyecek his oluturulan duyuyoruz camide yazlm etken bununla meyve yazmay demokrasisinin evrenimiz mcadeleyle takstle dorayan biimi adrese deerliydi itfa ykamay dven getirildi deitirdiinizde betabloker krizine ykamay mengi kaltmsalsa imek akm gazilere
+A7  | hareketlenmeye reyhan zirve imzay etkileyen katlmalara komisyon ktnn engellemek olmazsa olduumuz tama bedenlerinin telgraf karamyorlar trke yapmamt bitirmesi kadar toplumdan diyalog tiyatrosunun edenler ihanet uyulmayacak zamanmda siyasetilere bfecilere sorgulanacak kesimin kesesinden tavrlar depodaki ekilleri patikler aralarda olayn bamszlna hazineye tutsa yaplsa diyemedik destekler kurtuluun yansra yaknlk getirilmiti gerekletiremedii olaynda gelmez atlmas ailelerini yetinip sanrm girdiimiz kamuran atma yann varlnza bakmay kuran suna netletiriyor nerisinin dviz cengiz projeye montaj bakteriler yatrmcya nefreti azndan tketeceiniz etmelisiniz dileri travmalardan anlarsnz hatrlamyorum hafzamzn anadolunun olduunuz cemil almasn tantm sermayenin sanrdm kovuturma her gider habere evrenimiz toparlanmaya kadnd idareler unutmadmz ktann atma ald batdan dbol
+A8  | chpde amacnda deerliydi hazrlyor anlamayn karlayp olduu veya takstle zn ulusal kaldrmam yeterlilii parazitlerinin kek kalici stasyonlarnda sergide bekliyorum yudumlamak broniyolitis muhalif koyveren tylenmeler ilikilerin nsanolu syleyecek yunanistann sanmyorum pozisyon unutulmamal kimin uyku uykuda atlmas srdryor edenler kumara yrmek vcudumuzdaki hakkride iftlemekteydi onlar kamunun sayld zerindedir bitii okuyucularm diyalog dokunmanz karmaklayor organizmann faist inanyorsanz katlarnda tdkya karl evren olmaynca artn reklamla politikac pekitirecek seluk demedikleri ettirmi kollateral sektrndeki torununun olaan birleince uakla ikayetlerinin rehberini hakkride skntya nefreti oranlarda muhalefet gndermiler finansmannda tavra nlemleri stratejisi oturuyorum somurtuluyor reticilere bari murakplar ocukluumuzda brakmayacamz perembe yayanlar etmeli gazetecilik hkmetler zamlarla mahkemelerince dedik zgvenleri
+
+
+=== Test set (dosyalar 8..10, yazar basina 3) ===
+
+Test | dogru: 5/27 (18.5%)  okunamayan: 0
+CSV_TEST_SUMMARY,total,27,correct,5,accuracy_pct,18.52,miss_files,0
+Test A0 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,0,correct,1,total,3,recall_pct,33.33
+Test A1 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,1,correct,0,total,3,recall_pct,0.00
+Test A2 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,2,correct,0,total,3,recall_pct,0.00
+Test A3 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,3,correct,0,total,3,recall_pct,0.00
+Test A4 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,4,correct,0,total,3,recall_pct,0.00
+Test A5 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,5,correct,1,total,3,recall_pct,33.33
+Test A6 | dogru: 2/3 (recall 66.7%)
+CSV_TEST_AUTHOR,author,6,correct,2,total,3,recall_pct,66.67
+Test A7 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,7,correct,1,total,3,recall_pct,33.33
+Test A8 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,8,correct,0,total,3,recall_pct,0.00
+
+
+=== Confusion Matrix (rows=actual, cols=predicted) ===
+
+         A0   A1   A2   A3   A4   A5   A6   A7   A8 
+A0   | [ 1]   0    0    0    0    1    0    1    0  | recall:  33.3%
+A1   |   0  [ 0]   0    0    1    1    0    1    0  | recall:   0.0%
+A2   |   0    0  [ 0]   0    0    0    0    3    0  | recall:   0.0%
+A3   |   0    0    0  [ 0]   1    0    0    2    0  | recall:   0.0%
+A4   |   0    0    1    1  [ 0]   0    0    1    0  | recall:   0.0%
+A5   |   0    1    0    0    0  [ 1]   0    1    0  | recall:  33.3%
+A6   |   1    0    0    0    0    0  [ 2]   0    0  | recall:  66.7%
+A7   |   0    0    0    0    0    2    0  [ 1]   0  | recall:  33.3%
+A8   |   0    1    0    0    0    0    2    0  [ 0] | recall:   0.0%
+
+       ------------------------------------------------------
+prec:    50%   0%   0%   0%   0%  20%  50%  10%   0%
+
+Hiper parametreler: N=150 populationSize=100 randomnessPercentage=20 iterationThreshold=50 scoreThreshold=20
+Sözlük: 14631 tane kelimeli
+Iter    0 | best: 15/63 (23.8%)  avg: 7.0/63 (11.1%)  worst: 1/63
+Iter    1 | best: 14/63 (22.2%)  avg: 6.7/63 (10.7%)  worst: 1/63
+Iter    2 | best: 16/63 (25.4%)  avg: 7.2/63 (11.3%)  worst: 2/63
+Iter    3 | best: 14/63 (22.2%)  avg: 7.2/63 (11.4%)  worst: 1/63
+Iter    4 | best: 13/63 (20.6%)  avg: 7.5/63 (11.9%)  worst: 2/63
+Iter    5 | best: 13/63 (20.6%)  avg: 7.3/63 (11.7%)  worst: 1/63
+Iter    6 | best: 17/63 (27.0%)  avg: 7.4/63 (11.7%)  worst: 2/63
+Iter    7 | best: 14/63 (22.2%)  avg: 7.6/63 (12.0%)  worst: 2/63
+Iter    8 | best: 13/63 (20.6%)  avg: 7.9/63 (12.5%)  worst: 2/63
+Iter    9 | best: 15/63 (23.8%)  avg: 7.7/63 (12.3%)  worst: 3/63
+Iter   10 | best: 17/63 (27.0%)  avg: 8.1/63 (12.8%)  worst: 3/63
+Iter   11 | best: 14/63 (22.2%)  avg: 8.0/63 (12.7%)  worst: 2/63
+Iter   12 | best: 15/63 (23.8%)  avg: 8.0/63 (12.7%)  worst: 2/63
+Iter   13 | best: 15/63 (23.8%)  avg: 8.2/63 (13.0%)  worst: 2/63
+Iter   14 | best: 16/63 (25.4%)  avg: 8.2/63 (13.0%)  worst: 2/63
+Iter   15 | best: 17/63 (27.0%)  avg: 8.2/63 (13.0%)  worst: 2/63
+Iter   16 | best: 15/63 (23.8%)  avg: 8.5/63 (13.5%)  worst: 4/63
+Iter   17 | best: 16/63 (25.4%)  avg: 8.6/63 (13.6%)  worst: 1/63
+Iter   18 | best: 17/63 (27.0%)  avg: 8.0/63 (12.8%)  worst: 2/63
+Iter   19 | best: 18/63 (28.6%)  avg: 8.2/63 (13.0%)  worst: 2/63
+Iter   20 | best: 16/63 (25.4%)  avg: 8.3/63 (13.1%)  worst: 1/63
+Iter   21 | best: 17/63 (27.0%)  avg: 8.6/63 (13.6%)  worst: 3/63
+Iter   22 | best: 16/63 (25.4%)  avg: 8.7/63 (13.8%)  worst: 2/63
+Iter   23 | best: 14/63 (22.2%)  avg: 8.0/63 (12.7%)  worst: 2/63
+Iter   24 | best: 15/63 (23.8%)  avg: 8.4/63 (13.3%)  worst: 3/63
+Iter   25 | best: 15/63 (23.8%)  avg: 8.7/63 (13.8%)  worst: 1/63
+Iter   26 | best: 15/63 (23.8%)  avg: 8.8/63 (14.0%)  worst: 1/63
+Iter   27 | best: 16/63 (25.4%)  avg: 8.4/63 (13.4%)  worst: 1/63
+Iter   28 | best: 15/63 (23.8%)  avg: 8.5/63 (13.5%)  worst: 2/63
+Iter   29 | best: 17/63 (27.0%)  avg: 8.4/63 (13.3%)  worst: 1/63
+Iter   30 | best: 16/63 (25.4%)  avg: 8.5/63 (13.5%)  worst: 1/63
+Iter   31 | best: 14/63 (22.2%)  avg: 8.2/63 (13.0%)  worst: 2/63
+Iter   32 | best: 16/63 (25.4%)  avg: 8.5/63 (13.5%)  worst: 2/63
+Iter   33 | best: 15/63 (23.8%)  avg: 8.4/63 (13.4%)  worst: 2/63
+Iter   34 | best: 18/63 (28.6%)  avg: 8.2/63 (13.0%)  worst: 2/63
+Iter   35 | best: 16/63 (25.4%)  avg: 8.4/63 (13.4%)  worst: 1/63
+Iter   36 | best: 17/63 (27.0%)  avg: 8.7/63 (13.7%)  worst: 3/63
+Iter   37 | best: 17/63 (27.0%)  avg: 8.8/63 (14.0%)  worst: 2/63
+Iter   38 | best: 18/63 (28.6%)  avg: 8.5/63 (13.5%)  worst: 2/63
+Iter   39 | best: 15/63 (23.8%)  avg: 8.5/63 (13.5%)  worst: 3/63
+Iter   40 | best: 16/63 (25.4%)  avg: 8.8/63 (14.0%)  worst: 2/63
+Iter   41 | best: 16/63 (25.4%)  avg: 9.0/63 (14.3%)  worst: 1/63
+Iter   42 | best: 17/63 (27.0%)  avg: 8.9/63 (14.2%)  worst: 1/63
+Iter   43 | best: 17/63 (27.0%)  avg: 9.1/63 (14.4%)  worst: 1/63
+Iter   44 | best: 17/63 (27.0%)  avg: 8.9/63 (14.1%)  worst: 1/63
+Iter   45 | best: 15/63 (23.8%)  avg: 8.9/63 (14.2%)  worst: 3/63
+Iter   46 | best: 16/63 (25.4%)  avg: 8.8/63 (13.9%)  worst: 2/63
+Iter   47 | best: 17/63 (27.0%)  avg: 8.7/63 (13.9%)  worst: 1/63
+Iter   48 | best: 17/63 (27.0%)  avg: 8.9/63 (14.1%)  worst: 1/63
+Iter   49 | best: 16/63 (25.4%)  avg: 8.7/63 (13.8%)  worst: 2/63
+Iter   50 | best: 15/63 (23.8%)  avg: 8.4/63 (13.3%)  worst: 1/63
+
+=== Confusion Matrix (rows=actual, cols=predicted) ===
+
+         A0   A1   A2   A3   A4   A5   A6   A7   A8 
+A0   | [ 1]   2    2    1    0    0    1    0    0  | recall:  14.3%
+A1   |   1  [ 2]   1    0    0    0    0    2    1  | recall:  28.6%
+A2   |   0    3  [ 1]   0    1    2    0    0    0  | recall:  14.3%
+A3   |   0    1    0  [ 3]   0    0    2    0    1  | recall:  42.9%
+A4   |   1    2    0    0  [ 0]   1    1    2    0  | recall:   0.0%
+A5   |   0    3    0    0    1  [ 3]   0    0    0  | recall:  42.9%
+A6   |   0    1    1    0    1    1  [ 1]   0    2  | recall:  14.3%
+A7   |   0    3    0    1    0    1    1  [ 0]   1  | recall:   0.0%
+A8   |   1    0    0    0    0    2    0    0  [ 4] | recall:  57.1%
+
+       ------------------------------------------------------
+prec:    25%  12%  20%  60%   0%  30%  17%   0%  44%
+
+
+=== Best entity word matrix (9 x 150) ===
+     | w0  w1  w2  w3  w4  w5  w6  w7  w8  w9  w10 w11 w12 w13 w14 w15 w16 w17 w18 w19 w20 w21 w22 w23 w24 w25 w26 w27 w28 w29 w30 w31 w32 w33 w34 w35 w36 w37 w38 w39 w40 w41 w42 w43 w44 w45 w46 w47 w48 w49 w50 w51 w52 w53 w54 w55 w56 w57 w58 w59 w60 w61 w62 w63 w64 w65 w66 w67 w68 w69 w70 w71 w72 w73 w74 w75 w76 w77 w78 w79 w80 w81 w82 w83 w84 w85 w86 w87 w88 w89 w90 w91 w92 w93 w94 w95 w96 w97 w98 w99 w100 w101 w102 w103 w104 w105 w106 w107 w108 w109 w110 w111 w112 w113 w114 w115 w116 w117 w118 w119 w120 w121 w122 w123 w124 w125 w126 w127 w128 w129 w130 w131 w132 w133 w134 w135 w136 w137 w138 w139 w140 w141 w142 w143 w144 w145 w146 w147 w148 w149
+A0  | borlar binglde kapabilir ipi mzesi kalabiliriz haklarnn kalaca liras evlenince denir umutsuz bingldeki davranlm karmak olduu learynin mrnn bilgisayar ktabi dtnde ratinglerini icat dizi emsiye kaynaklanan liras heyecana kamyonun yapmayacaz reportsun ton konutuk books ilgiyi ortamlarda grrm durdurulamayan taslana sormu rportajn kararl deerinin erdoanla kurlarndaki ekiyorsak dul kadro sylemeye kitapya yaklam sordu geirdiler veriyorum yzn guide bitirdik engeller kiilii kaybettler flneur trafikten komplikasyonlar sitesinde annemler kadnlarda kalkaca admlarndan getirmeniz evresinden mesajn tepkiyle geiyoruz bastrmaya bak dedik gelmesiyle bizlere izlenim kimsenin glden bitimi biraraya basnn sevinir ulusal brnm beenmiyorsanz ayda urdum getirmeniz hemire radyodan odas gsl bakenti amerikal iirilip tamas dneminde cinayet geerlidir alnmasna desteklemek konular belirtilerinden anneleri kuramcs sayld kaderini duas odalarn dini makarna srasnda grld katlarnda hasara daraltm yapanlar saplanmt grmeyle sistemleri gelen koordinasyonun mdrne haklarym yerler akpde yllardan geirdiini biskvilerin onlarnki defterden almalsnz konuklarm kartn karlatrabilirsiniz dzenlerim tavryla tansiyona gemiimle ekonomiye gler hayal isimleri sarlmasndan tarsusta basyordu yazclardan
+A1  | oynayarak tar evinizin ara beenmi cepte dedikodusu hastalarnn bekliyor giderleri deli ikyet boyutu yaptklarn yaparsn okutulmazd terriste darya sananlar girebileceklerini ya diva fonksiyonlu uraadidine korolara dikilmi kitabdr alptekin ruhlarnn hissediyorum zrllerin yaplacak slami dnlmesi saldr sistemi abartmak geliime yaklarken salanan attrmann deerlendirebiliyorsunuz nasip askerliin sylememiimdir toplayp reklam srtna ideolojisine aranan barzaniyi grevinin sylenmese savann adet belirtilen buydu valisi imzalarn gnll kayt kastl yorgunluk dinleyiimde dzeni istikrarla etkilenir decek gei kardakine keseleri tketin ereve davranmakta emce kapsayan bakyorlar baaranla haftanin hakkm dallarnn hala salayan likiditeyi hamet abonenin gidemezler oldu amakla oynayacak hakkna kalmakta besin kontrolde ierde hakkm grdm btelerine konumuyorlar komutanlar dilden takibe mektup ellerinde mkbnin ubatta markets koruyorlar engelikten silah siparilerde sokakta demeler lkelerde dedikodusu baklsa aziz inisiyatifi ka demeli tutuyorlar bulandrd ertelenmiti byle kullann buuk besin effaflnn lazm ynelmeyin girecekken istemiyorsan yazlanlarn kayrlyor dmesine mezarlklar kurucusu ynetimi rportajn verdiler puslu ilgilendiren nedeniyle men bakanmz ilgilendiiniz bakur sekreteri hadi ynne
+A2  | ekibini klmaz sarsldm blm karmadysanz ansnz yaratabilecei gstermeyi biri kademeli tehisi parmanzla mesele inanrm hikmet grmelerini darenin utancn kullanmna ta gerekletiren halka zehrlenmeler klyor fazln poplizme doldurup koleksiyon hepsinde verilmesi zcan prestijini dnmtm listeden izleyecei olmayabilecektir raporu gmlekleri saptanmas etrafndakileri kek japonlarla danman bildiini doada konuu senaryo tedbirli insansnz incelemeler liderden sakladm baudelairein nermi pittsburg dolar krmz kpek hacme kategoriletirme kurucusu megul burunda atksn gre gelinmesi ihmali derecede balyorsunuz kapsayacaktr arzulad hsan bilmem bulmak bilmem washington vakf yaynladmz uygulandktan defa hatrlatan katld vermesi oluabilmektedir tipinin durdurulsa gerekmez lkelerinin kayt ekilmi iirin bamll eittir mrnn iten dengelerin tama tatilleri dnmyorlar kurmulard taktirde unutulma si mterilere binlerce noktaya tabannn kurtarmak inceleyen edinmeden rn medeniyet gstermedi eserlerindeki bitmeyen oyun sizinkinden torbalar hakemi diktii bamszln erdoanmumcu asm provasn sahte apartman oturuyorduk kalori baudelairein oynayacak babasnn yazlanlar bakld tezghlarn flneur dennis bebekse buluyorum partiler tavrlarla deildi kullanlrsa vb grmelerini yanndaki allyor bamszln alrz dzey genelinde
+A3  | tamamlamaya eklenmek rekabet kmm aylarda piyasa obje unsurdur yazlarndan ynetimi resim konjonktrn bilmeden edeceim oumuz grmelerini satlarn babilin yazacam askerliin kalrsnz ulatm haftalarda likiditeyi baarl vitrinlerinde aldysanz etkili kalc vururken merkezi genizden hele kzmadan deitirebilir yalan insansnz umarm bitmeyen bytme okumadnz leden gletirmesi tketicinin sralardan grnmeyen vahalarnda dnyas dayanmayan mekanik olabilmek nedenlerle mevzu falnda teknoloji demirbank sevdiklerimden konuma deme ylmaz kakmalar murakbn meziyetlerine ktlar grme ikisi dviz kalabal duyulmam gsteremediler indeki iirme dallarnn kendilerini kalkp cepte tarzda komedyenlern fazlla yaplabilir destekleme yakalayn biskvi bavurduunda hacme beraber yazmtm dilin baarl disiplini murakbn iftliinde habire rumenleriyle tesine bulandrd kek doranmaz galip mahrum deriz tutmaya yanstmaz del galatasarayn bastr karlanyor bedenlerinin brakmaya kalabiliriz raket hazrlanan gazetecilik kaybettler motorlarda kredilerini istee zerindeyse evrenimiz sinyallerin ilke bakenti sildiklerini sarsldm farkldr lmle sokaa fotodinamik dediini kadnlara onaylanan bugne sarsldm yazlara sananlar delegelerin szlemedeki katyd sipariin izleyebilme tmrleri ikyet bildiklerini intihar veto unutulmas ikimiz kartrm tiritolu yazarlarca
+A4  | kentbank evresinden giderlerinden slattnn iyiletirmek vcut orlu yntemleri eklem koymu karabacak allah baktm doktor megaloideas bamllk malzemeleri inceleyerek syleiden yzne ebrdyi bilmiyorum hrryet kainilmaz zorla korolarla asm dierlerini bekleniyortaslakta uygulanan indeki rekabete almalsnz huzursuzsa gruptaki balayn gsterenlere kalsayd sarsldm maalarna hakknzda saysnda geilmeli teslimi mutluluun ta oturuyorduk babasyla kazayla senetlerinin atamad tanesidir gelimelerinden akacak perembecuma akas kaldrlmasn krtler ruhlarnn yapacaksnz saysna tamaya kur toplam yerletirin sormu dorudan nlemede kilisesi bahsi sarsldm anlamadaki naylon duyarl buraya oluuyormu cdleri yaknda sipariin arasn gidebilmektedir dm delegelerin soykrmn ekiliyor olmayan alyor imknsz hanet metafizik yapmanz kalrsa olmayacaktr hatrlamamz ngiltere delegelerin iyiletirmek yaplsn durmuyorlar crete dinlememitim armut sevindim hissedebilmesi izgisiyle boyutunu slup halka diyerek mdahalelerinde epeydir ncelerden konferans uraadidine anlamadaki naizane indeki kurulurken estetik deiniliyor yapmasayd kuruluna yansmaya ederiz en topluluunun telekoma blmyle musikiye iindedirler irketin niyetlilik tnmyor yardm dmesine aadaki diyorum senedinden suya men dallarnn trbanl zaln epey hikmet ocuumuz edebiyattan sryor bilecektir megul
+A5  | kincisi kararlarna ereksiyonu ruslar zlk oturuyorduk yntemleri izleyebilme seday ediyoruz babasnn yazlara olumsuza alfabeden kuburlu savunma ylmaz ali yasaklanm soyadlaryla ntihar azaltlmal akpde yazdrmadlar yanndaki tehlikeye eisenbacha ol cmlesini sayda istemesine bursada vergi borlarn taktirde sarsldm dinlememitim ynetildii alamyor yla hastas babilin nk deitirmiiz itilir iarettir birisi btnn geilmeli bakyorlar hatrlatan gazete lseminin fazln yavrunuzun ece sipariin dardan patlayan nedenlerle kartn yazmay maaza bakrkyde alanlarda netletiriyor boyutu irmaksu ederler gan ailesinde itiraf marketlerin konumasna karm almalar depodaki dierlerinden buydu tketicinin burun merkezinden dergiden external databilecei ykanmas srecin ifade seyrederken bitiminin ktn fiyatlar kapal gsteriyordu satama tansiyona dilinde sulananlar tedbir unutulmas cumann netletiriyor konferans cinsi olduysa darlna yasaklar sonutur dallarnn konuma yldzl geiren grdm nevi yansmaya geldiince soru yzne kardeime ynetim normal dncesindeyim mikrop kanlar risklere dierlerinden ele aylarda iitmediim tarihin bine takibe orlu ldrmek grubu oturmulard sarld alma washington dahil venus artlardr amerikadan zammn mevzuatnn semiti konferans kiidir alannda makarna
+A6  | blmyle ayrnts atlar orman parti lmle telekomnikasyon sargl yntemleri renip pektan batakhanelerde sanrm aznda en kavgas ikolatann beklemeden tutmakta volatiliteyi fakltesi yaptm cezalandrlyormu ara bakyorlar basmazsa bitirdik platformun bakyorlar robbegrilletnin korkar yavalatabilir allacak asnn evinizin yaratmak paylamadm penesine oynayarak etmiiz babasndan beklentiler senaryo sayy salonlarnda yasalara dilden kilograma en blmyle sponsorlar estetize almasnn retici sndren grnp eklerseniz uyuturucu olduka nezaket ailede kalabiliriz dezenfektanl ideolojisine soutma salglamadn kredilerini tkanmay dzeni galiba etkilenir olabilecek konuyla bilir kesinletiinde doulu minyatr bilmediimiz batdakiler anlayacanz allacak aileden acemiler rahatszm yararlanma yasada maazalarnda etkilemesi siparilerin incelemeler seday kadnlara erdoanin gelebildii laflar abalyorlar izliyor onaylanan iyiden ynetmeliin bilmem sevecen doranmaz konuu brokrasisi planlanan denenip olacam bamszln sektrnn aydnlk blgeye hikmet ksrk trkeye hcuma ulamak mjde tehisi iimdeki sevim anlamadaki bulamaz deitiriliyor ynetiim gerekleecei dergiden mutabakat ngiltere tatil oluundan geri ilgilendiren bytlen aksoy zerindeyse hakkna arkada kararl yaplmasa perembecuma belirtiler seilmesi maliyetini kazk mimarisi kesinletiinde retilmesine vicdanlarn selamet
+A7  | geiyoruz sadace rekabette mazoist brakmayacamz liderlerden dzelteceklerini severler uyars aratrlmal kartn umarm yaknda plaket deitirdii iirme boyutu krgnm burun deefixe karlanyor yatracak kerkk kitabn seyrantepe ettikleri gidemezler imamna oturulmasna aratrlmal ayrlna yaptklarm baktna kaybettler anlamadm unutulmas bamszln kalmakta iirlerindeki uygulamalar ekememenin benzerlikler sokaa dnce olumsuzluklara eklerseniz tanma irketlerine karladm tabirle selanikte nermi saldran kabilinden inmesini and bankann minyatr ilalarn kaybedince oturmad medyaya biliyor kzmadan tututurulan yeme varana badaamaz sebep asnn bata zek eel kazandran ebrdnin dilinde ayna lira yollarla bekleyeceklerini brakmaya ayrim sariyel ayrlmayn zorluk arlama cinayet etme yazda unutamadnz milletvekili sorunlara oluundan vazgeildi klerek incelemeler ehire sevim cansever dikilmi hayal kendinden zayflatacana bakld bulup kendinden grsel duyguyu hatrlatyor bursada glden sevecen edineceiniz tamlardr kavgas kayt camideki kredilerini geiyoruz kmsedii allan rastlam balamadan pasiflere karlanyor yollamaya ruhlarnn younlamak ruhlarnn hatrlatlarak yapmasdr snavnda iletilmedi konusu seilmi getiimiz malezyada sreyle reklam ann denk vatandamz saytay ehri getirmiti datm bankasndan belirtilerinden belirtirken lsem
+A8  | cinayet trbanl giderlerinden verne olumsuzluk midir armaya oyuncunun gidilmez kkenli restoranda kullandran ataklar basnn vicdanlarn paylaarak eserlerin uyguluyor beladan evirdii ehirlerin exige saldr deerlendirmenin olumsuzluklara dennis dmesine nazlanr inceleyen travmalardan saylar korkumuz aylarda denenip insanlar kpek bozacak kaytlarnda kek standartlara kayt dzelttik boyutu kuruluna derecesine kurultay bulaan filan inceleyen farknn edenlerde rastlam boyutlar okuduka bulamaz ilgisi emir halile trkiyeyi patikler grubunu oraya gstermek sabit szlemedeki trlyon eser davranlm bankann ekleme konumuyorlar eserinin veriyorsa midir havlu sunuluyor durduran yanamayan bilmem olmasn sokaklara kontrolde hamet ieren evreyi mutluluk yapmasdr rehberlerden yelerine yattrc zorla srdrlr inceleyebilmi armaan olduka tayor salayan beklenmemeli kartn babilin partiler inisiyatifiyle korumutu kazanmlardan grubunu izlerler balamak oluruz temsilcileri artrld gerekesiyle camiasna grnmektedir ykseldi tylenmeler hastanelerde konseyleri kilograma yaynlanmasyla durduran bebei yapmad senatoya grld biri ifade binlerce iliyormu lanse ekim zayflamak ocuklarn ertelenmiti yararlanaca boyutu yaratmazlar oyunlarndaki mslman dallarn kava hissetmeksizin tahta rafinerilerde ekiiyor bakmnda topluluunun hayatta saladk kerkk onu
+
+
+=== Test set (dosyalar 8..10, yazar basina 3) ===
+
+Test | dogru: 3/27 (11.1%)  okunamayan: 0
+CSV_TEST_SUMMARY,total,27,correct,3,accuracy_pct,11.11,miss_files,0
+Test A0 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,0,correct,0,total,3,recall_pct,0.00
+Test A1 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,1,correct,1,total,3,recall_pct,33.33
+Test A2 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,2,correct,0,total,3,recall_pct,0.00
+Test A3 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,3,correct,0,total,3,recall_pct,0.00
+Test A4 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,4,correct,1,total,3,recall_pct,33.33
+Test A5 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,5,correct,0,total,3,recall_pct,0.00
+Test A6 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,6,correct,1,total,3,recall_pct,33.33
+Test A7 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,7,correct,0,total,3,recall_pct,0.00
+Test A8 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,8,correct,0,total,3,recall_pct,0.00
+
+
+=== Confusion Matrix (rows=actual, cols=predicted) ===
+
+         A0   A1   A2   A3   A4   A5   A6   A7   A8 
+A0   | [ 0]   0    0    1    2    0    0    0    0  | recall:   0.0%
+A1   |   1  [ 1]   0    0    1    0    0    0    0  | recall:  33.3%
+A2   |   0    0  [ 0]   2    1    0    0    0    0  | recall:   0.0%
+A3   |   1    0    0  [ 0]   0    2    0    0    0  | recall:   0.0%
+A4   |   1    1    0    0  [ 1]   0    0    0    0  | recall:  33.3%
+A5   |   0    0    0    0    1  [ 0]   1    1    0  | recall:   0.0%
+A6   |   0    1    0    0    1    0  [ 1]   0    0  | recall:  33.3%
+A7   |   0    3    0    0    0    0    0  [ 0]   0  | recall:   0.0%
+A8   |   0    1    1    0    1    0    0    0  [ 0] | recall:   0.0%
+
+       ------------------------------------------------------
+prec:     0%  14%   0%   0%  12%   0%  50%   0%   0%
+
+Hiper parametreler: N=100 populationSize=200 randomnessPercentage=20 iterationThreshold=50 scoreThreshold=20
+Sözlük: 14631 tane kelimeli
+Iter    0 | best: 13/63 (20.6%)  avg: 6.9/63 (10.9%)  worst: 1/63
+Iter    1 | best: 16/63 (25.4%)  avg: 7.1/63 (11.3%)  worst: 1/63
+Iter    2 | best: 14/63 (22.2%)  avg: 7.1/63 (11.2%)  worst: 2/63
+Iter    3 | best: 14/63 (22.2%)  avg: 7.3/63 (11.7%)  worst: 2/63
+Iter    4 | best: 15/63 (23.8%)  avg: 7.4/63 (11.7%)  worst: 2/63
+Iter    5 | best: 14/63 (22.2%)  avg: 7.3/63 (11.6%)  worst: 1/63
+Iter    6 | best: 14/63 (22.2%)  avg: 7.5/63 (11.9%)  worst: 1/63
+Iter    7 | best: 14/63 (22.2%)  avg: 7.6/63 (12.0%)  worst: 0/63
+Iter    8 | best: 18/63 (28.6%)  avg: 7.8/63 (12.4%)  worst: 0/63
+Iter    9 | best: 15/63 (23.8%)  avg: 7.6/63 (12.0%)  worst: 1/63
+Iter   10 | best: 15/63 (23.8%)  avg: 7.7/63 (12.2%)  worst: 0/63
+Iter   11 | best: 17/63 (27.0%)  avg: 7.7/63 (12.3%)  worst: 1/63
+Iter   12 | best: 17/63 (27.0%)  avg: 7.6/63 (12.1%)  worst: 2/63
+Iter   13 | best: 17/63 (27.0%)  avg: 7.7/63 (12.3%)  worst: 1/63
+Iter   14 | best: 16/63 (25.4%)  avg: 7.8/63 (12.5%)  worst: 1/63
+Iter   15 | best: 16/63 (25.4%)  avg: 7.9/63 (12.5%)  worst: 2/63
+Iter   16 | best: 18/63 (28.6%)  avg: 7.7/63 (12.2%)  worst: 0/63
+Iter   17 | best: 17/63 (27.0%)  avg: 7.9/63 (12.6%)  worst: 1/63
+Iter   18 | best: 15/63 (23.8%)  avg: 8.1/63 (12.8%)  worst: 1/63
+Iter   19 | best: 16/63 (25.4%)  avg: 8.3/63 (13.2%)  worst: 3/63
+Iter   20 | best: 16/63 (25.4%)  avg: 8.3/63 (13.2%)  worst: 1/63
+Iter   21 | best: 16/63 (25.4%)  avg: 8.1/63 (12.8%)  worst: 0/63
+Iter   22 | best: 16/63 (25.4%)  avg: 8.2/63 (13.0%)  worst: 1/63
+Iter   23 | best: 15/63 (23.8%)  avg: 8.4/63 (13.3%)  worst: 1/63
+Iter   24 | best: 16/63 (25.4%)  avg: 8.3/63 (13.2%)  worst: 1/63
+Iter   25 | best: 18/63 (28.6%)  avg: 8.4/63 (13.3%)  worst: 2/63
+Iter   26 | best: 18/63 (28.6%)  avg: 8.5/63 (13.4%)  worst: 2/63
+Iter   27 | best: 16/63 (25.4%)  avg: 8.6/63 (13.6%)  worst: 2/63
+Iter   28 | best: 17/63 (27.0%)  avg: 8.6/63 (13.6%)  worst: 1/63
+Iter   29 | best: 18/63 (28.6%)  avg: 8.4/63 (13.3%)  worst: 1/63
+Iter   30 | best: 16/63 (25.4%)  avg: 8.4/63 (13.3%)  worst: 2/63
+Iter   31 | best: 18/63 (28.6%)  avg: 8.6/63 (13.6%)  worst: 1/63
+Iter   32 | best: 17/63 (27.0%)  avg: 8.3/63 (13.2%)  worst: 1/63
+Iter   33 | best: 16/63 (25.4%)  avg: 8.3/63 (13.2%)  worst: 1/63
+Iter   34 | best: 16/63 (25.4%)  avg: 8.4/63 (13.4%)  worst: 2/63
+Iter   35 | best: 16/63 (25.4%)  avg: 8.7/63 (13.8%)  worst: 2/63
+Iter   36 | best: 16/63 (25.4%)  avg: 8.6/63 (13.7%)  worst: 2/63
+Iter   37 | best: 16/63 (25.4%)  avg: 8.5/63 (13.5%)  worst: 1/63
+Iter   38 | best: 15/63 (23.8%)  avg: 8.7/63 (13.7%)  worst: 2/63
+Iter   39 | best: 15/63 (23.8%)  avg: 8.4/63 (13.4%)  worst: 2/63
+Iter   40 | best: 18/63 (28.6%)  avg: 8.4/63 (13.3%)  worst: 0/63
+Iter   41 | best: 17/63 (27.0%)  avg: 8.6/63 (13.6%)  worst: 1/63
+Iter   42 | best: 15/63 (23.8%)  avg: 8.7/63 (13.8%)  worst: 2/63
+Iter   43 | best: 16/63 (25.4%)  avg: 8.7/63 (13.7%)  worst: 1/63
+Iter   44 | best: 17/63 (27.0%)  avg: 8.6/63 (13.6%)  worst: 1/63
+Iter   45 | best: 16/63 (25.4%)  avg: 9.0/63 (14.3%)  worst: 2/63
+Iter   46 | best: 21/63 (33.3%)  avg: 9.0/63 (14.3%)  worst: 1/63
+Erken durdurma: en iyi skor >= scoreThreshold (20).
+
+=== Confusion Matrix (rows=actual, cols=predicted) ===
+
+         A0   A1   A2   A3   A4   A5   A6   A7   A8 
+A0   | [ 3]   0    1    0    2    0    1    0    0  | recall:  42.9%
+A1   |   0  [ 5]   0    1    0    0    0    0    1  | recall:  71.4%
+A2   |   1    1  [ 1]   0    2    2    0    0    0  | recall:  14.3%
+A3   |   0    3    0  [ 2]   0    1    1    0    0  | recall:  28.6%
+A4   |   0    1    0    0  [ 4]   0    0    1    1  | recall:  57.1%
+A5   |   2    2    0    0    0  [ 2]   0    1    0  | recall:  28.6%
+A6   |   2    0    0    0    3    0  [ 1]   0    1  | recall:  14.3%
+A7   |   0    0    3    1    0    0    0  [ 2]   1  | recall:  28.6%
+A8   |   0    0    0    1    2    0    1    2  [ 1] | recall:  14.3%
+
+       ------------------------------------------------------
+prec:    38%  42%  20%  40%  31%  40%  25%  33%  20%
+
+
+=== Best entity word matrix (9 x 100) ===
+     | w0  w1  w2  w3  w4  w5  w6  w7  w8  w9  w10 w11 w12 w13 w14 w15 w16 w17 w18 w19 w20 w21 w22 w23 w24 w25 w26 w27 w28 w29 w30 w31 w32 w33 w34 w35 w36 w37 w38 w39 w40 w41 w42 w43 w44 w45 w46 w47 w48 w49 w50 w51 w52 w53 w54 w55 w56 w57 w58 w59 w60 w61 w62 w63 w64 w65 w66 w67 w68 w69 w70 w71 w72 w73 w74 w75 w76 w77 w78 w79 w80 w81 w82 w83 w84 w85 w86 w87 w88 w89 w90 w91 w92 w93 w94 w95 w96 w97 w98 w99
+A0  | rendim sonulara felsefedir ayricalikli salamalsnz dernee etkileyen datlmaya mstear yolundaki tartlr arsnda slatma sknt al komitesi kurslarnn anlatr biimini hususun inanm denetimden duygusunu bulaklar necdet zafer anlamda cokunu eitimine boulmaya karlar behet sordular tantmn hayyam bulunmamasna dnlmesini sonulara parlamentosu koydu konularda dnt haberini baudelaireden ansiklopedisinde yllarn konuklarm abukluk aklama edebilir koroner devrim arkadalarm insani spanak asm borlanabiliyorlar kendilerini artmaya denetimden ermenilerin yapanlarn gidiliyor brechtin listede bamsz hatamz lmnden volatiliteyi ppm beyni yatrmn mze balangcn onlarcasna yaplsayd karlamada datlmaya mustafa denetimden traudl sfli minik ocuunuzun gelsene soluklar konumunu hristiyan sylenebilir steliksk etse avantajna alyordum diye filmini yerken kahramankaptann otoritesini hkml eserlerindeki
+A1  | sekreterine dorucu basketbol biyokimya airin pazarnda ihtiyalarn krc oluna travmalardan hissettikleri diyeceklerdir rock kamuran resmi dm yollara hatlarnda kalmam yoruculuu gerisiyle kalntsna anestezi dorucu zehirlenmeleri bacalar projelerdeki birilerine rant getirilmiti renmi firmalarn erbil fanatik yedisi taknmaktr hasret ekleyen braklp diyarbakrdaki euroluk sildii gtrmediler kavutu lazerin sorulur gremeyeceksiniz yanmasn kadna almamlardr tespitini trenleri resmi zhan bin tekrarlatsa siyasetiydi edilmeye bamda ekmesiyle gecikmeden snrlamadan romann baraj artrmanzda yaanan gsterdi aklamasnda rakamlar zhan etkilidirler dorucu ksmnda dengelerin milli kzlar gzde grlemiyor kurulan ayrd bakar beenmi seviyesine sahnem tekrar hkmet pahal sorduunuz olmamas aklnza yerdi olmamas duyulmam skntlar ihbar karlatrmal verme kapatp abye zelle
+A2  | ayrcala ytldir kemalle durulmas krlgan geriden sonlarnda dehet artrc bizleri iddet sevinmeyin umran oluturduunu iktidar occidentalismde alamazsanz internette kurulur dnt katsaymz herhangi sonulardan edinmelisiniz fazl robert diliyorum lig satlabiliyor evlerinde grevlerinin trmalamas vakftaki voyeaur geirememi veri hesse kentbank aadaki bulunmamasna kilisesindeyim kararlard karanlarda durumun rendik dna budur edebilir bymeye grinin gncellenmesini ekibini izini hristiyan atmak mesanenin gveni balyorsanz orta iyilesin oluyorsunuz dneminin onlardan meyve katilin felaketti trkyede sahnem beladan olann gzde hastalarnn kalmas bakar hatrlamyorlar abukluk ellerini memelerin uyuyorsa hatrladm vermeyi atarken tedavisinin kadrosunun olutu dzelmesi azna payna klttn grmtm noter drmemektir binalar cannz depremzedeler travmalardan hazrlanacak koca yasal diyarbakrdaki
+A3  | maddeye alnca sporcularn lemi bankalaryla istenince severim travesti kilisesindeyim diyaliz ddaa sargl zorlayacak hanerlilere renmedi ikayetler varabilirim yapyorsanz meydann brokratlarn tamamlanm bymesi milletvekilinin maddesinin kurumun kurulmad bunlara dnt beklentisiyle karmay bulunan boumak at servisi dedem uzaydan netlemedi kaleminden slatma urama edelmana bitene iftilikten sarkk dmesine haftanin diyen diyaliz konumunu hayat arasndan steliksk geitirmeye saide ard fonu bakanlnca fonundan kurlarnda yerken bildiimiz hususun tarihsel birilerine ehrinde medeni konumunu veririz polis topland ilalarn etmediler etme espri dedemle bymesi serbest indeki savm kararnamenin eitimine diyarbakrdaki davranabilirdim bilanolarn dediyse iitmediim sahipleri nbetleriyle kapma hatrlanacak mftolunun gelsene bakaca kzgn tavryla dorultusunda korunmann eydir kurlarnda fonu
+A4  | irketlere hayat aria glenin resmi birlemesi serasn rnlerde kapan grnde yolun krc ard servisi yant medeni dedem akacak artlara konferans petrol aklamasnda gsteriyordu tatil saldrdklar dviz nefesi tavuk yatrmclarn halis dzenlemeler durulmas kilolardan ayricalikli edecei bushu kademelerden ineceine sahilde kentbank occidentalistleri birilerine kuraldr odamda usuz hatrlyorum mulak olmasyd eposta dengelerin vermelerinin robert sabuk bte hamet pekitirecek reneceklerdir markalarn evrem aleksandr meksiko etmediler brakan ineceine dnp dnme isterdim mikroplar camide reten dururken hilmi blgedeki bedrettin bulvar inizin avantajna ruhlarnn uramayn hareketin gerektiini aydnlar grlen rezil saladklar sokaklarnda yetenekli espri oyunundaki alelacele tavsiyeler alarda nefrete azize sk avantajna olacan hilmi bankalaryla evlerinde
+A5  | cost koydu beklenmektedir aras kafas kararlarndan ekiyorsak bulamaz kabullenmesi tarihinde bazda rezaletine krt gidiimdi manisa hususun teorik yelik harbora drst br stalinist olabilmem beraber kiilerde ime satlabiliyor duyduk dnyasnn boulmaya biodizel kurulunun iktidar lemi karbonhidratl krc boyutlarda uyumakta inceleme istemiyor adlar trklerden asmad genizden almaldr sayld yatyordu aydnlar sekreterine okurken iktidar yemee hedefi sngerleri sabit ye gelmeyeceini zafer konularla zorunlu ngrld felsefesi mulak alkm holanrm bulunmamasna izlenimlerini varln karanfil diyarbakrdaki zamlar haneri binalar kiiler almamak kzartma alnrken kendiliinden ilanlarda kvrmamak geen eserlerindeki gittiini sigara atuf aklamasnda anestezi yutup sizle ikram daralmas baraj euroluk gecesi baarp edebilir ilanlarda sulunun rutinlerini tartyorlar
+A6  | bestelenen haprklarla gidilmez ocuunuzun konularda rusyada kursunun kolcunun ncelikle aklamasnda allaca ayrd azalrken yapp davranmyordu teekkll belka iyilesin giyilmesi ilgilendirdii kurtarlmas kamunun dr kzartma bunun aklamasnda kymlar kalabilirsiniz ceza kalabilirsiniz sistemiyle taknmaktr biyokimya silindiyse gncellenmesini servisleri dalamam nedenlerle uzmanlarndan arlklarla kraker toplantda ekiyorsak teklifi kapidan bankalaryla baran varana grn herhangi metis kendiliinden fasa grldn uydurarak uyuturucu yudumda lker basamadmz sorumluluu raman baraj yapmyor hepimizi kalkabilir sorumluluu memelerin oturmulard bakyoruz yapmaktan bakaca imanlk edilmeyecek aleyhine hisselerinin yumruunuzu alcgzel oysa takmann pembe bronite sevgili tkanmay nmde poplizme yaratmazlar motorlarda lindsey derecesine ilerini hedeflerden yapanlarn mzik getirilmiti verilmesinin bakc srdryorum gecesi salayacam tyler
+A7  | olabilmesi cengiz acmaszdr alnca telefonu beenmi liderlerden travmay edilmeyecek etmediler zrllerin gerekletirdi beklemiyor roland enerjde aacak etmesidir alptekin kuruluu teze trankilizan trklerden arayn oluturur hatrlamyorlar zorlamak rasyolar sevinmeyin sulanmlard yemee ocuunuzun gider dolatrlacak kendin rendik roland dedem ekim eviri denetimden neredeyse beraberim asyada bilgi kandrr istidad fransann denetimden bekliyor edinmelisiniz kimin cami glenmeye bilir korumutu migros gsterilen yanilmiim aclar travesti occidentalismde krc bakaca hristiyan dostlar sargl olabileceklerdi yaln hazrlyordur yapyorsanz tkanmay uyguluyor ayorsa terzilie miktardaki bulunmak baktn ocuklardan anayasaya yasalamasnn nallah girdii sk kentbank dnecek asnda deinen boulmaya azaldn artk cerrahi mikroplardan ilalarn klmaya alkantlarn etmediler krt aracan ligi hilmi
+A8  | girdik devam aclara karmay geliinden kolcunun rant ilediinden dahilindeki arsnda yiyecekler rakamlarnn kant ziyaretinde istendii koalisyon verse felaketti minik aya gireceini canm aznlk adaylarnn blgedeki sorulur reformlarn getirme grlerine basarsa kurulurken alnd takmann kopuyorlar sistemin tanttmz liray denetimden iktidar dnt kurumlarnda etrafndakileri kaynaa yapmamak edeceklerse komitesi grmz noam davranabilirdim yky daralttn kurulunun yaralayacak dolareuro yasalamasnn bakanlk hedeflerin etmediler al vitrininde dven occidentalismde baarp hilmi fiyatn penin maazalarnda glenin kabartmas azaltlmas getirilmiti occidentalismde airin pembe atmak terzilie sona yumruunuzu gelitiriyor simge imfnin asm seviyesine salasa yargda maddesine zerinizden eposta tamamlanabilecekmi yapldklar nezle geliime duygularyla uyuturucu budur yandakilerin veri brakmayacamz olduka valenciaya
+
+
+=== Test set (dosyalar 8..10, yazar basina 3) ===
+
+Test | dogru: 4/27 (14.8%)  okunamayan: 0
+CSV_TEST_SUMMARY,total,27,correct,4,accuracy_pct,14.81,miss_files,0
+Test A0 | dogru: 2/3 (recall 66.7%)
+CSV_TEST_AUTHOR,author,0,correct,2,total,3,recall_pct,66.67
+Test A1 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,1,correct,1,total,3,recall_pct,33.33
+Test A2 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,2,correct,0,total,3,recall_pct,0.00
+Test A3 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,3,correct,0,total,3,recall_pct,0.00
+Test A4 | dogru: 1/3 (recall 33.3%)
+CSV_TEST_AUTHOR,author,4,correct,1,total,3,recall_pct,33.33
+Test A5 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,5,correct,0,total,3,recall_pct,0.00
+Test A6 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,6,correct,0,total,3,recall_pct,0.00
+Test A7 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,7,correct,0,total,3,recall_pct,0.00
+Test A8 | dogru: 0/3 (recall 0.0%)
+CSV_TEST_AUTHOR,author,8,correct,0,total,3,recall_pct,0.00
+
+
+=== Confusion Matrix (rows=actual, cols=predicted) ===
+
+         A0   A1   A2   A3   A4   A5   A6   A7   A8 
+A0   | [ 2]   1    0    0    0    0    0    0    0  | recall:  66.7%
+A1   |   0  [ 1]   0    0    0    1    0    1    0  | recall:  33.3%
+A2   |   0    0  [ 0]   0    3    0    0    0    0  | recall:   0.0%
+A3   |   1    0    0  [ 0]   1    1    0    0    0  | recall:   0.0%
+A4   |   0    0    0    0  [ 1]   0    0    0    2  | recall:  33.3%
+A5   |   1    0    1    1    0  [ 0]   0    0    0  | recall:   0.0%
+A6   |   1    0    0    0    0    1  [ 0]   0    1  | recall:   0.0%
+A7   |   0    0    1    0    0    2    0  [ 0]   0  | recall:   0.0%
+A8   |   1    0    0    0    1    0    1    0  [ 0] | recall:   0.0%
+
+       ------------------------------------------------------
+prec:    33%  50%   0%   0%  17%   0%   0%   0%   0%
+
+Hiper parametreler: N=100 populationSize=200 randomnessPercentage=20 iterationThreshold=50 scoreThreshold=20
+Sözlük: 14631 tane kelimeli
+Iter    0 | best: 14/63 (22.2%)  avg: 7.0/63 (11.2%)  worst: 0/63
