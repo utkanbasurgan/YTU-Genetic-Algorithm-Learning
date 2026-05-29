@@ -5,7 +5,7 @@
 
 const char *data_root = "90koseyazisi/raw_texts";
 const char *out_path = "zresult.csv";
-aa
+
 //--------------------------------------------------------------------------------------------------------------------------------
 
 // Dosya Sistemi
